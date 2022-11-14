@@ -2,7 +2,6 @@
 <h3 align="center">A DevOps Engineer from Latvia</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shini4i&style=flat-square&color=blue" alt=""/>
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shini4i?style=flat-square">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/shini4i?style=flat-square">
 </p>
