@@ -6,6 +6,8 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/shini4i?style=flat-square">
 </p>
 
+<h3 align="left">General information:</h3>
+
 - 🔭 I’m currently working on [argo-watcher](https://github.com/shini4i/argo-watcher) and [argo-compare](https://github.com/shini4i/argo-compare)
 - 📫 How to reach me **vadims@linux-tech.io**
 
@@ -14,6 +16,8 @@
 <a href="https://linkedin.com/in/v-gedzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v-gedzs" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Publications:</h3>
+<a href="https://medium.com/dyninno/a-journey-to-gitops-9aa445474eb6">A Journey to GitOps</a> - a small story about migration to GitOps
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
