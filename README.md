@@ -17,7 +17,8 @@
 </p>
 
 <h3 align="left">Latest Blog Posts and activities:</h3>
-<a href="https://medium.com/dyninno/a-journey-to-gitops-9aa445474eb6">A Journey to GitOps</a> - a small story about migration to GitOps
+<a href="https://medium.com/dyninno/a-journey-to-gitops-9aa445474eb6">A Journey to GitOps</a> - a small story about migration to GitOps<br>
+<a href="https://medium.com/dyninno/journey-to-gitops-part-2-infrastructure-42e9a677d85f">A Journey to GitOps, Part 2: Infrastructure</a> - a second part of the story, covering infrastructure part<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -39,4 +40,3 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
 </p>
-
