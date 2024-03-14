@@ -8,7 +8,7 @@
 
 <h3 align="left">General information:</h3>
 
-- 🔭 I’m currently working on [argo-watcher](https://github.com/shini4i/argo-watcher) and [argo-compare](https://github.com/shini4i/argo-compare)
+- 🔭 I’m currently working on [argo-watcher](https://github.com/shini4i/argo-watcher)
 - 📫 How to reach me **vadims@linux-tech.io**
 
 <h3 align="left">Connect with me:</h3>
