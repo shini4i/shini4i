@@ -17,10 +17,6 @@
 <a href="https://instagram.com/vgedzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vgedzs" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Latest Blog Posts and activities:</h3>
-<a href="https://medium.com/dyninno/a-journey-to-gitops-9aa445474eb6">A Journey to GitOps</a> - a small story about migration to GitOps<br>
-<a href="https://medium.com/dyninno/journey-to-gitops-part-2-infrastructure-42e9a677d85f">A Journey to GitOps, Part 2: Infrastructure</a> - a second part of the story, covering infrastructure part<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> 
