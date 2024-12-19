@@ -8,13 +8,21 @@
 
 <h3 align="left">General information:</h3>
 
-- 🔭 I’m currently working on [argo-watcher](https://github.com/shini4i/argo-watcher)
-- 📫 How to reach me **vadims@linux-tech.io**
+- 🔭 I’m currently working on one of the highlighted projects below
+- 📫 How to reach me **github@shini4i.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/v-gedzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v-gedzs" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Highlighted projects:</h3>
+- [argo-compare](https://github.com/shini4i/argo-compare) - A comparison tool for displaying the differences between ArgoCD Applications in different Git branches.
+- [argo-watcher](https://github.com/shini4i/argo-watcher) - A service that bridges traditional pipelines and GitOps, improving deployment visibility. Includes a built-in GitOps repo updater.
+- [atlantis-emoji-gate](https://github.com/shini4i/atlantis-emoji-gate) - A tool that allows to bypass Gitlab CE limitations in Atlantis workflow. Implements mandatory approvements.
+- [disposable-k8s-cluster](https://github.com/shini4i/disposable-k8s-cluster) - A simple project for bootstrapping kubernetes cluster for short experiments.
+- [kd](https://github.com/shini4i/kd) - A bash script that makes it easy to view the contents of secrets stored in a Kubernetes cluster.
+- [kubeseal-auto](https://github.com/shini4i/kubeseal-auto) - An interactive wrapper for kubeseal binary.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
