@@ -21,7 +21,7 @@
 
 - [argo-compare](https://github.com/shini4i/argo-compare) - A comparison tool for displaying the differences between ArgoCD Applications in different Git branches.
 - [argo-watcher](https://github.com/shini4i/argo-watcher) - A service that bridges traditional pipelines and GitOps, improving deployment visibility. Includes a built-in GitOps repo updater.
-- [atlantis-emoji-gate](https://github.com/shini4i/atlantis-emoji-gate) - A tool that allows to bypass Gitlab CE limitations in Atlantis workflow. Implements mandatory approvements.
+- [atlantis-emoji-gate](https://github.com/shini4i/atlantis-emoji-gate) - A tool that implements mandatory approvals for Atlantis workflows in GitLab Community Edition (CE) using emoji reactions as an approval mechanism.
 - [disposable-k8s-cluster](https://github.com/shini4i/disposable-k8s-cluster) - A simple project for bootstrapping kubernetes cluster for short experiments.
 - [kd](https://github.com/shini4i/kd) - A bash script that makes it easy to view the contents of secrets stored in a Kubernetes cluster.
 - [kubeseal-auto](https://github.com/shini4i/kubeseal-auto) - An interactive wrapper for kubeseal binary.
