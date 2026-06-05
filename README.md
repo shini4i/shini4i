@@ -21,10 +21,10 @@
 
 | Project | Description | Stars |
 | --- | --- | --- |
-| **[argo-watcher](https://github.com/shini4i/argo-watcher)** | Bridges traditional CI pipelines and Argo CD GitOps for real-time deployment visibility; ships a built-in GitOps repo updater. | [![Stars](https://img.shields.io/github/stars/shini4i/argo-watcher?style=flat-square&logo=github&color=f4c430)](https://github.com/shini4i/argo-watcher) |
-| **[argo-compare](https://github.com/shini4i/argo-compare)** | Shows the differences between Argo CD Applications across Git branches. | [![Stars](https://img.shields.io/github/stars/shini4i/argo-compare?style=flat-square&logo=github&color=f4c430)](https://github.com/shini4i/argo-compare) |
-| **[kubeseal-auto](https://github.com/shini4i/kubeseal-auto)** | Interactive wrapper around the `kubeseal` CLI for Sealed Secrets. | [![Stars](https://img.shields.io/github/stars/shini4i/kubeseal-auto?style=flat-square&logo=github&color=f4c430)](https://github.com/shini4i/kubeseal-auto) |
-| **[atlantis-emoji-gate](https://github.com/shini4i/atlantis-emoji-gate)** | Mandatory approvals for Atlantis workflows on GitLab CE, gated by emoji reactions. | [![Stars](https://img.shields.io/github/stars/shini4i/atlantis-emoji-gate?style=flat-square&logo=github&color=f4c430)](https://github.com/shini4i/atlantis-emoji-gate) |
+| **[argo-watcher](https://github.com/shini4i/argo-watcher)** | Bridges traditional CI pipelines and Argo CD GitOps for real-time deployment visibility; ships a built-in GitOps repo updater. | [![Stars](https://img.shields.io/github/stars/shini4i/argo-watcher?style=flat-square&logo=github&color=f4c430&cacheSeconds=3600)](https://github.com/shini4i/argo-watcher) |
+| **[argo-compare](https://github.com/shini4i/argo-compare)** | Shows the differences between Argo CD Applications across Git branches. | [![Stars](https://img.shields.io/github/stars/shini4i/argo-compare?style=flat-square&logo=github&color=f4c430&cacheSeconds=3600)](https://github.com/shini4i/argo-compare) |
+| **[kubeseal-auto](https://github.com/shini4i/kubeseal-auto)** | Interactive wrapper around the `kubeseal` CLI for Sealed Secrets. | [![Stars](https://img.shields.io/github/stars/shini4i/kubeseal-auto?style=flat-square&logo=github&color=f4c430&cacheSeconds=3600)](https://github.com/shini4i/kubeseal-auto) |
+| **[atlantis-emoji-gate](https://github.com/shini4i/atlantis-emoji-gate)** | Mandatory approvals for Atlantis workflows on GitLab CE, gated by emoji reactions. | [![Stars](https://img.shields.io/github/stars/shini4i/atlantis-emoji-gate?style=flat-square&logo=github&color=f4c430&cacheSeconds=3600)](https://github.com/shini4i/atlantis-emoji-gate) |
 
 ---
 
@@ -59,7 +59,7 @@
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+  <img alt="OpenTofu" src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black">
   <img alt="Nix" src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white">
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
 </p>
