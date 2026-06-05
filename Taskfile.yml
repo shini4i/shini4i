@@ -1,0 +1,17 @@
+version: "3"
+
+tasks:
+  test:
+    desc: Run the unit tests
+    cmds:
+      - pytest -q
+
+  lint:
+    desc: Lint the Python source
+    cmds:
+      - ruff check .
+
+  run:
+    desc: Refresh README.md locally (needs GITHUB_TOKEN; PROFILE_LOGIN defaults to shini4i)
+    cmds:
+      - python profilegen.py
