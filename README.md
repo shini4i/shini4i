@@ -22,11 +22,19 @@
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-_Nothing here yet._
+- [chore: bump dependencies, fix multi-arch build, pin CI actions](https://github.com/shini4i/docker-atlantis/pull/195) · `shini4i/docker-atlantis` · 2026-06-05
+- [bump argo-compare version to 0.9.1](https://github.com/shini4i/nixpkgs/pull/25) · `shini4i/nixpkgs` · 2026-06-03
+- [fix(app): skip anchor file's own changes in anchor discovery](https://github.com/shini4i/argo-compare/pull/150) · `shini4i/argo-compare` · 2026-06-03
+- [fix(app): resolve helm subchart deps for path-based applications](https://github.com/shini4i/argo-compare/pull/145) · `shini4i/argo-compare` · 2026-06-01
+- [fix(app): honor helm.valueFiles and tolerate charts without values.yaml](https://github.com/shini4i/argo-compare/pull/144) · `shini4i/argo-compare` · 2026-06-01
 
 ### 🐛 Recent Issues
 
-_Nothing here yet._
+- [make errors easier to understand](https://github.com/shini4i/argo-watcher/issues/433) · `shini4i/argo-watcher` · 2026-05-05
+- [add support for ecr oci helm repositories](https://github.com/shini4i/argo-compare/issues/126) · `shini4i/argo-compare` · 2026-02-18
+- [Need to mask secrets in logs output and MR comments](https://github.com/shini4i/argo-compare/issues/118) · `shini4i/argo-compare` · 2025-10-30
+- [Handle cases when application disappears during deployment](https://github.com/shini4i/argo-watcher/issues/387) · `shini4i/argo-watcher` · 2025-08-20
+- [updater: application panics on invalid or missing SSH key](https://github.com/shini4i/argo-watcher/issues/385) · `shini4i/argo-watcher` · 2025-08-12
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
