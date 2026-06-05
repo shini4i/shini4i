@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vadim 👋</h1>
 
 <p align="center">
-  DevOps Engineer from Latvia
+  Platform / Infrastructure Engineer from Latvia
 </p>
 
 <p align="center">
