@@ -17,6 +17,15 @@
 
 ---
 
+## 🌟 Highlighted Projects
+
+- **[Argo Watcher](https://github.com/shini4i/argo-watcher)** — Bridges traditional CI pipelines and Argo CD GitOps for real-time deployment visibility; ships a built-in GitOps repo updater. [![Stars](https://img.shields.io/github/stars/shini4i/argo-watcher?style=flat&logo=github&label=★&color=f4c430)](https://github.com/shini4i/argo-watcher)
+- **[Argo Compare](https://github.com/shini4i/argo-compare)** — Shows the differences between Argo CD Applications across Git branches. [![Stars](https://img.shields.io/github/stars/shini4i/argo-compare?style=flat&logo=github&label=★&color=f4c430)](https://github.com/shini4i/argo-compare)
+- **[kubeseal-auto](https://github.com/shini4i/kubeseal-auto)** — Interactive wrapper around the `kubeseal` CLI for Sealed Secrets. [![Stars](https://img.shields.io/github/stars/shini4i/kubeseal-auto?style=flat&logo=github&label=★&color=f4c430)](https://github.com/shini4i/kubeseal-auto)
+- **[atlantis-emoji-gate](https://github.com/shini4i/atlantis-emoji-gate)** — Mandatory approvals for Atlantis workflows on GitLab CE, gated by emoji reactions. [![Stars](https://img.shields.io/github/stars/shini4i/atlantis-emoji-gate?style=flat&logo=github&label=★&color=f4c430)](https://github.com/shini4i/atlantis-emoji-gate)
+
+---
+
 ## 📈 Recent Activity
 
 <!-- ACTIVITY:START -->
