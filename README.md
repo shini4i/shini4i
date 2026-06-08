@@ -39,11 +39,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(ui): make OTP/2FA auth selectable in profile editor](https://github.com/shini4i/openfortivpn-gui/pull/10) · `shini4i/openfortivpn-gui` · 2026-06-07
 - [chore: bump dependencies, fix multi-arch build, pin CI actions](https://github.com/shini4i/docker-atlantis/pull/195) · `shini4i/docker-atlantis` · 2026-06-05
 - [bump argo-compare version to 0.9.1](https://github.com/shini4i/nixpkgs/pull/25) · `shini4i/nixpkgs` · 2026-06-03
 - [fix(app): skip anchor file's own changes in anchor discovery](https://github.com/shini4i/argo-compare/pull/150) · `shini4i/argo-compare` · 2026-06-03
 - [fix(app): resolve helm subchart deps for path-based applications](https://github.com/shini4i/argo-compare/pull/145) · `shini4i/argo-compare` · 2026-06-01
-- [fix(app): honor helm.valueFiles and tolerate charts without values.yaml](https://github.com/shini4i/argo-compare/pull/144) · `shini4i/argo-compare` · 2026-06-01
 
 ### 🐛 Recent Issues
 
