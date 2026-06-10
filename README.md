@@ -39,11 +39,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [bump openfortivpn-gui version to 0.3.3](https://github.com/shini4i/nixpkgs/pull/27) · `shini4i/nixpkgs` · 2026-06-09
+- [ci(release): pin build go version via go-version-file](https://github.com/shini4i/openfortivpn-gui/pull/12) · `shini4i/openfortivpn-gui` · 2026-06-09
+- [chore(ci): build deb and rpm on debian trixie, bump action refs](https://github.com/shini4i/openfortivpn-gui/pull/11) · `shini4i/openfortivpn-gui` · 2026-06-09
+- [bump openfortivpn-gui version to 0.3.2](https://github.com/shini4i/nixpkgs/pull/26) · `shini4i/nixpkgs` · 2026-06-09
 - [fix(ui): make OTP/2FA auth selectable in profile editor](https://github.com/shini4i/openfortivpn-gui/pull/10) · `shini4i/openfortivpn-gui` · 2026-06-07
-- [chore: bump dependencies, fix multi-arch build, pin CI actions](https://github.com/shini4i/docker-atlantis/pull/195) · `shini4i/docker-atlantis` · 2026-06-05
-- [bump argo-compare version to 0.9.1](https://github.com/shini4i/nixpkgs/pull/25) · `shini4i/nixpkgs` · 2026-06-03
-- [fix(app): skip anchor file's own changes in anchor discovery](https://github.com/shini4i/argo-compare/pull/150) · `shini4i/argo-compare` · 2026-06-03
-- [fix(app): resolve helm subchart deps for path-based applications](https://github.com/shini4i/argo-compare/pull/145) · `shini4i/argo-compare` · 2026-06-01
 
 ### 🐛 Recent Issues
 
