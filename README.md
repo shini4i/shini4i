@@ -39,11 +39,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix: harden privileged helper, preserve profile settings on save, sign releases](https://github.com/shini4i/openfortivpn-gui/pull/13) · `shini4i/openfortivpn-gui` · 2026-06-10
+- [fix(helm): keep registry credentials out of helm argv](https://github.com/shini4i/argo-compare/pull/151) · `shini4i/argo-compare` · 2026-06-10
 - [bump openfortivpn-gui version to 0.3.3](https://github.com/shini4i/nixpkgs/pull/27) · `shini4i/nixpkgs` · 2026-06-09
 - [ci(release): pin build go version via go-version-file](https://github.com/shini4i/openfortivpn-gui/pull/12) · `shini4i/openfortivpn-gui` · 2026-06-09
 - [chore(ci): build deb and rpm on debian trixie, bump action refs](https://github.com/shini4i/openfortivpn-gui/pull/11) · `shini4i/openfortivpn-gui` · 2026-06-09
-- [bump openfortivpn-gui version to 0.3.2](https://github.com/shini4i/nixpkgs/pull/26) · `shini4i/nixpkgs` · 2026-06-09
-- [fix(ui): make OTP/2FA auth selectable in profile editor](https://github.com/shini4i/openfortivpn-gui/pull/10) · `shini4i/openfortivpn-gui` · 2026-06-07
 
 ### 🐛 Recent Issues
 
