@@ -39,11 +39,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [chore: Add a security scanning suite (SAST, dependencies, secrets, DAST) and harden CI workflows](https://github.com/shini4i/argo-watcher/pull/442) · `shini4i/argo-watcher` · 2026-06-12
+- [ci(security): add scanning suite and harden workflows](https://github.com/shini4i/argo-compare/pull/152) · `shini4i/argo-compare` · 2026-06-12
 - [ci(security): add scanning suite and harden workflows](https://github.com/shini4i/kubeseal-auto/pull/103) · `shini4i/kubeseal-auto` · 2026-06-11
 - [ci(publish): auto-create GitHub release and bump nixpkgs on tag](https://github.com/shini4i/kubeseal-auto/pull/102) · `shini4i/kubeseal-auto` · 2026-06-11
 - [chore(kubeseal-auto): migrate from poetry2nix to uv2nix, bump to v0.7.1](https://github.com/shini4i/nixpkgs/pull/28) · `shini4i/nixpkgs` · 2026-06-11
-- [fix(deps): resolve urllib3 advisories via kubernetes 36.x + tooling refresh](https://github.com/shini4i/kubeseal-auto/pull/101) · `shini4i/kubeseal-auto` · 2026-06-11
-- [chore: migrate from poetry to uv](https://github.com/shini4i/kubeseal-auto/pull/100) · `shini4i/kubeseal-auto` · 2026-06-11
 
 ### 🐛 Recent Issues
 
