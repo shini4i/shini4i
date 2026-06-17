@@ -39,11 +39,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [docs: add community-maintained AUR package to integration guide](https://github.com/shini4i/pam-lid-block/pull/2) · `shini4i/pam-lid-block` · 2026-06-16
+- [bump openfortivpn-gui version to 0.3.4](https://github.com/shini4i/nixpkgs/pull/29) · `shini4i/nixpkgs` · 2026-06-16
+- [feat(packaging): ship application icons in deb and rpm](https://github.com/shini4i/openfortivpn-gui/pull/15) · `shini4i/openfortivpn-gui` · 2026-06-16
 - [chore: Add a security scanning suite (SAST, dependencies, secrets, DAST) and harden CI workflows](https://github.com/shini4i/argo-watcher/pull/442) · `shini4i/argo-watcher` · 2026-06-12
 - [ci(security): add scanning suite and harden workflows](https://github.com/shini4i/argo-compare/pull/152) · `shini4i/argo-compare` · 2026-06-12
-- [ci(security): add scanning suite and harden workflows](https://github.com/shini4i/kubeseal-auto/pull/103) · `shini4i/kubeseal-auto` · 2026-06-11
-- [ci(publish): auto-create GitHub release and bump nixpkgs on tag](https://github.com/shini4i/kubeseal-auto/pull/102) · `shini4i/kubeseal-auto` · 2026-06-11
-- [chore(kubeseal-auto): migrate from poetry2nix to uv2nix, bump to v0.7.1](https://github.com/shini4i/nixpkgs/pull/28) · `shini4i/nixpkgs` · 2026-06-11
 
 ### 🐛 Recent Issues
 
