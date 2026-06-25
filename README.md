@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(tray): make connected and disconnected icons distinguishable](https://github.com/shini4i/openfortivpn-gui/pull/18) · `shini4i/openfortivpn-gui` · 2026-06-25
 - [docs(changelog): record 0.10.5 release](https://github.com/shini4i/argo-watcher/pull/443) · `shini4i/argo-watcher` · 2026-06-23
 - [feat(tray): recolor app shield icon by connection status](https://github.com/shini4i/openfortivpn-gui/pull/17) · `shini4i/openfortivpn-gui` · 2026-06-18
 - [fix(security): pass docker password via stdin and harden backup UX](https://github.com/shini4i/kubeseal-auto/pull/104) · `shini4i/kubeseal-auto` · 2026-06-18
 - [fix: enforce minimum reconnect delay and fix UTF-8 log truncation](https://github.com/shini4i/openfortivpn-gui/pull/16) · `shini4i/openfortivpn-gui` · 2026-06-18
-- [docs: add community-maintained AUR package to integration guide](https://github.com/shini4i/pam-lid-block/pull/2) · `shini4i/pam-lid-block` · 2026-06-16
 
 ### 🐛 Recent Issues
 
