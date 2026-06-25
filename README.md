@@ -31,6 +31,7 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 | **[argo-compare](https://github.com/shini4i/argo-compare)** | Shows the differences between Argo CD Applications across Git branches. | [![Stars](https://img.shields.io/github/stars/shini4i/argo-compare?style=flat-square&logo=github&color=f4c430&cacheSeconds=3600)](https://github.com/shini4i/argo-compare) |
 | **[kubeseal-auto](https://github.com/shini4i/kubeseal-auto)** | Interactive wrapper around the `kubeseal` CLI for Sealed Secrets. | [![Stars](https://img.shields.io/github/stars/shini4i/kubeseal-auto?style=flat-square&logo=github&color=f4c430&cacheSeconds=3600)](https://github.com/shini4i/kubeseal-auto) |
 | **[atlantis-emoji-gate](https://github.com/shini4i/atlantis-emoji-gate)** | Mandatory approvals for Atlantis workflows on GitLab CE, gated by emoji reactions. | [![Stars](https://img.shields.io/github/stars/shini4i/atlantis-emoji-gate?style=flat-square&logo=github&color=f4c430&cacheSeconds=3600)](https://github.com/shini4i/atlantis-emoji-gate) |
+| **[openfortivpn-gui](https://github.com/shini4i/openfortivpn-gui)** | GTK4/libadwaita GUI for Fortinet SSL VPN on Linux, wrapping openfortivpn with multi-profile support, SAML/SSO auth, and keyring storage. | [![Stars](https://img.shields.io/github/stars/shini4i/openfortivpn-gui?style=flat-square&logo=github&color=f4c430&cacheSeconds=3600)](https://github.com/shini4i/openfortivpn-gui) |
 
 ---
 
