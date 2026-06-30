@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(deps): bump dependencies to clear open Dependabot advisories](https://github.com/shini4i/argo-watcher/pull/446) · `shini4i/argo-watcher` · 2026-06-29
+- [docs(gitops-updater): explain how to generate JWT_SECRET](https://github.com/shini4i/argo-watcher/pull/445) · `shini4i/argo-watcher` · 2026-06-29
+- [feat(docs): generate llms.txt for AI agent navigation](https://github.com/shini4i/argo-watcher/pull/444) · `shini4i/argo-watcher` · 2026-06-29
 - [bump openfortivpn-gui version to 0.3.5](https://github.com/shini4i/nixpkgs/pull/30) · `shini4i/nixpkgs` · 2026-06-28
 - [chore(deps): update dependencies and bump go to 1.26.4](https://github.com/shini4i/openfortivpn-gui/pull/20) · `shini4i/openfortivpn-gui` · 2026-06-28
-- [feat(tray): draw hollow shield outline icons colored by status](https://github.com/shini4i/openfortivpn-gui/pull/19) · `shini4i/openfortivpn-gui` · 2026-06-28
-- [fix(tray): make connected and disconnected icons distinguishable](https://github.com/shini4i/openfortivpn-gui/pull/18) · `shini4i/openfortivpn-gui` · 2026-06-25
-- [docs(changelog): record 0.10.5 release](https://github.com/shini4i/argo-watcher/pull/443) · `shini4i/argo-watcher` · 2026-06-23
 
 ### 🐛 Recent Issues
 
