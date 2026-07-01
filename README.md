@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(web): process Keycloak login callback before SPA router redirect](https://github.com/shini4i/argo-watcher/pull/448) · `shini4i/argo-watcher` · 2026-06-30
+- [fix(web): stop Keycloak redirect loop on cross-domain instances](https://github.com/shini4i/argo-watcher/pull/447) · `shini4i/argo-watcher` · 2026-06-30
 - [fix(deps): bump dependencies to clear open Dependabot advisories](https://github.com/shini4i/argo-watcher/pull/446) · `shini4i/argo-watcher` · 2026-06-29
 - [docs(gitops-updater): explain how to generate JWT_SECRET](https://github.com/shini4i/argo-watcher/pull/445) · `shini4i/argo-watcher` · 2026-06-29
 - [feat(docs): generate llms.txt for AI agent navigation](https://github.com/shini4i/argo-watcher/pull/444) · `shini4i/argo-watcher` · 2026-06-29
-- [bump openfortivpn-gui version to 0.3.5](https://github.com/shini4i/nixpkgs/pull/30) · `shini4i/nixpkgs` · 2026-06-28
-- [chore(deps): update dependencies and bump go to 1.26.4](https://github.com/shini4i/openfortivpn-gui/pull/20) · `shini4i/openfortivpn-gui` · 2026-06-28
 
 ### 🐛 Recent Issues
 
