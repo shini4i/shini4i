@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [feat: detect and surface rollback deployments](https://github.com/shini4i/argo-watcher/pull/449) · `shini4i/argo-watcher` · 2026-07-03
 - [feat: modernize image for MongoDB 8.0 and AWS CLI v2](https://github.com/shini4i/docker-mongodb-tools-awscli/pull/1) · `shini4i/docker-mongodb-tools-awscli` · 2026-07-02
 - [fix(web): process Keycloak login callback before SPA router redirect](https://github.com/shini4i/argo-watcher/pull/448) · `shini4i/argo-watcher` · 2026-06-30
 - [fix(web): stop Keycloak redirect loop on cross-domain instances](https://github.com/shini4i/argo-watcher/pull/447) · `shini4i/argo-watcher` · 2026-06-30
 - [fix(deps): bump dependencies to clear open Dependabot advisories](https://github.com/shini4i/argo-watcher/pull/446) · `shini4i/argo-watcher` · 2026-06-29
-- [docs(gitops-updater): explain how to generate JWT_SECRET](https://github.com/shini4i/argo-watcher/pull/445) · `shini4i/argo-watcher` · 2026-06-29
 
 ### 🐛 Recent Issues
 
