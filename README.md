@@ -40,19 +40,19 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(app): skip Helm chart templates in Application discovery](https://github.com/shini4i/argo-compare/pull/154) · `shini4i/argo-compare` · 2026-07-06
 - [feat: detect and surface rollback deployments](https://github.com/shini4i/argo-watcher/pull/449) · `shini4i/argo-watcher` · 2026-07-03
 - [feat: modernize image for MongoDB 8.0 and AWS CLI v2](https://github.com/shini4i/docker-mongodb-tools-awscli/pull/1) · `shini4i/docker-mongodb-tools-awscli` · 2026-07-02
 - [fix(web): process Keycloak login callback before SPA router redirect](https://github.com/shini4i/argo-watcher/pull/448) · `shini4i/argo-watcher` · 2026-06-30
 - [fix(web): stop Keycloak redirect loop on cross-domain instances](https://github.com/shini4i/argo-watcher/pull/447) · `shini4i/argo-watcher` · 2026-06-30
-- [fix(deps): bump dependencies to clear open Dependabot advisories](https://github.com/shini4i/argo-watcher/pull/446) · `shini4i/argo-watcher` · 2026-06-29
 
 ### 🐛 Recent Issues
 
+- [Compare job fails on Helm templates when charts are stored alongside cluster config](https://github.com/shini4i/argo-compare/issues/153) · `shini4i/argo-compare` · 2026-07-06
 - [make errors easier to understand](https://github.com/shini4i/argo-watcher/issues/433) · `shini4i/argo-watcher` · 2026-05-05
 - [add support for ecr oci helm repositories](https://github.com/shini4i/argo-compare/issues/126) · `shini4i/argo-compare` · 2026-02-18
 - [Need to mask secrets in logs output and MR comments](https://github.com/shini4i/argo-compare/issues/118) · `shini4i/argo-compare` · 2025-10-30
 - [Handle cases when application disappears during deployment](https://github.com/shini4i/argo-watcher/issues/387) · `shini4i/argo-watcher` · 2025-08-20
-- [updater: application panics on invalid or missing SSH key](https://github.com/shini4i/argo-watcher/issues/385) · `shini4i/argo-watcher` · 2025-08-12
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
