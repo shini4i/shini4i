@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [bump argo-compare version to 0.9.2](https://github.com/shini4i/nixpkgs/pull/31) · `shini4i/nixpkgs` · 2026-07-08
+- [docs(changelog): release v0.9.2](https://github.com/shini4i/argo-compare/pull/156) · `shini4i/argo-compare` · 2026-07-08
+- [fix(app): treat newly added anchored chart as new Application](https://github.com/shini4i/argo-compare/pull/155) · `shini4i/argo-compare` · 2026-07-08
 - [fix(app): skip Helm chart templates in Application discovery](https://github.com/shini4i/argo-compare/pull/154) · `shini4i/argo-compare` · 2026-07-06
 - [feat: detect and surface rollback deployments](https://github.com/shini4i/argo-watcher/pull/449) · `shini4i/argo-watcher` · 2026-07-03
-- [feat: modernize image for MongoDB 8.0 and AWS CLI v2](https://github.com/shini4i/docker-mongodb-tools-awscli/pull/1) · `shini4i/docker-mongodb-tools-awscli` · 2026-07-02
-- [fix(web): process Keycloak login callback before SPA router redirect](https://github.com/shini4i/argo-watcher/pull/448) · `shini4i/argo-watcher` · 2026-06-30
-- [fix(web): stop Keycloak redirect loop on cross-domain instances](https://github.com/shini4i/argo-watcher/pull/447) · `shini4i/argo-watcher` · 2026-06-30
 
 ### 🐛 Recent Issues
 
