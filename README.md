@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [test(argocd): guard against crash when app disappears mid-rollout](https://github.com/shini4i/argo-watcher/pull/455) · `shini4i/argo-watcher` · 2026-07-10
+- [ci(pr-agent): add DeepSeek-backed AI PR review workflow](https://github.com/shini4i/argo-watcher/pull/454) · `shini4i/argo-watcher` · 2026-07-10
+- [feat(argocd): cancel superseded deployments](https://github.com/shini4i/argo-watcher/pull/453) · `shini4i/argo-watcher` · 2026-07-10
+- [chore(deps): bump backend, frontend, and flake deps to latest](https://github.com/shini4i/argo-watcher/pull/452) · `shini4i/argo-watcher` · 2026-07-10
 - [fix(client): retry transient network and 5xx errors while polling](https://github.com/shini4i/argo-watcher/pull/451) · `shini4i/argo-watcher` · 2026-07-09
-- [fix(argocd): enforce deployment timeout as a wall-clock deadline](https://github.com/shini4i/argo-watcher/pull/450) · `shini4i/argo-watcher` · 2026-07-09
-- [bump argo-compare version to 0.9.2](https://github.com/shini4i/nixpkgs/pull/31) · `shini4i/nixpkgs` · 2026-07-08
-- [docs(changelog): release v0.9.2](https://github.com/shini4i/argo-compare/pull/156) · `shini4i/argo-compare` · 2026-07-08
-- [fix(app): treat newly added anchored chart as new Application](https://github.com/shini4i/argo-compare/pull/155) · `shini4i/argo-compare` · 2026-07-08
 
 ### 🐛 Recent Issues
 
