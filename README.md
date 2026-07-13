@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [ci(release): sign checksums with cosign v3 bundle format](https://github.com/shini4i/argo-watcher/pull/463) · `shini4i/argo-watcher` · 2026-07-11
-- [feat(argocd): add per-task refresh override](https://github.com/shini4i/argo-watcher/pull/462) · `shini4i/argo-watcher` · 2026-07-11
-- [fix(web): restore layout broken by MUI v9 upgrade](https://github.com/shini4i/argo-watcher/pull/461) · `shini4i/argo-watcher` · 2026-07-11
-- [ci(pr-agent): tune review with project-specific config](https://github.com/shini4i/openfortivpn-gui/pull/22) · `shini4i/openfortivpn-gui` · 2026-07-11
-- [ci(pr-agent): tune review with project-specific config](https://github.com/shini4i/argo-watcher/pull/458) · `shini4i/argo-watcher` · 2026-07-11
+- [ci(release): prune superseded pre-releases after a stable release](https://github.com/shini4i/argo-watcher/pull/470) · `shini4i/argo-watcher` · 2026-07-12
+- [fix(auth): prevent log injection in keycloak group logging](https://github.com/shini4i/argo-watcher/pull/469) · `shini4i/argo-watcher` · 2026-07-12
+- [fix(client): accept raw JWT so BEARER_TOKEN is CI-maskable](https://github.com/shini4i/argo-watcher/pull/468) · `shini4i/argo-watcher` · 2026-07-12
+- [refactor(logging): replace zerolog with stdlib log/slog](https://github.com/shini4i/argo-watcher/pull/467) · `shini4i/argo-watcher` · 2026-07-12
+- [fix(updater): harden git write-back retry against concurrent writers](https://github.com/shini4i/argo-watcher/pull/466) · `shini4i/argo-watcher` · 2026-07-12
 
 ### 🐛 Recent Issues
 
