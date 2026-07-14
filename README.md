@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [perf(updater): avoid full-worktree scans on git write-back](https://github.com/shini4i/argo-watcher/pull/472) · `shini4i/argo-watcher` · 2026-07-13
+- [fix(web): keep history filters visible when list is empty](https://github.com/shini4i/argo-watcher/pull/471) · `shini4i/argo-watcher` · 2026-07-13
 - [ci(release): prune superseded pre-releases after a stable release](https://github.com/shini4i/argo-watcher/pull/470) · `shini4i/argo-watcher` · 2026-07-12
 - [fix(auth): prevent log injection in keycloak group logging](https://github.com/shini4i/argo-watcher/pull/469) · `shini4i/argo-watcher` · 2026-07-12
 - [fix(client): accept raw JWT so BEARER_TOKEN is CI-maskable](https://github.com/shini4i/argo-watcher/pull/468) · `shini4i/argo-watcher` · 2026-07-12
-- [refactor(logging): replace zerolog with stdlib log/slog](https://github.com/shini4i/argo-watcher/pull/467) · `shini4i/argo-watcher` · 2026-07-12
-- [fix(updater): harden git write-back retry against concurrent writers](https://github.com/shini4i/argo-watcher/pull/466) · `shini4i/argo-watcher` · 2026-07-12
 
 ### 🐛 Recent Issues
 
