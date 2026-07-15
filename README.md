@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [perf(updater): avoid full-worktree scans on git write-back](https://github.com/shini4i/argo-watcher/pull/472) · `shini4i/argo-watcher` · 2026-07-13
-- [fix(web): keep history filters visible when list is empty](https://github.com/shini4i/argo-watcher/pull/471) · `shini4i/argo-watcher` · 2026-07-13
-- [ci(release): prune superseded pre-releases after a stable release](https://github.com/shini4i/argo-watcher/pull/470) · `shini4i/argo-watcher` · 2026-07-12
-- [fix(auth): prevent log injection in keycloak group logging](https://github.com/shini4i/argo-watcher/pull/469) · `shini4i/argo-watcher` · 2026-07-12
-- [fix(client): accept raw JWT so BEARER_TOKEN is CI-maskable](https://github.com/shini4i/argo-watcher/pull/468) · `shini4i/argo-watcher` · 2026-07-12
+- [refactor(argocd): break up argo_status_updater.go](https://github.com/shini4i/argo-watcher/pull/480) · `shini4i/argo-watcher` · 2026-07-14
+- [refactor(server): split router.go into cohesive files](https://github.com/shini4i/argo-watcher/pull/479) · `shini4i/argo-watcher` · 2026-07-14
+- [refactor(argocd): extract git write-back engine out of models](https://github.com/shini4i/argo-watcher/pull/478) · `shini4i/argo-watcher` · 2026-07-14
+- [refactor: relocate shared packages into internal/](https://github.com/shini4i/argo-watcher/pull/477) · `shini4i/argo-watcher` · 2026-07-14
+- [fix: harden deploy-lock and correct deployment status reporting](https://github.com/shini4i/argo-watcher/pull/476) · `shini4i/argo-watcher` · 2026-07-14
 
 ### 🐛 Recent Issues
 
