@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [test(e2e): drive scenarios through the real client binary](https://github.com/shini4i/argo-watcher/pull/489) · `shini4i/argo-watcher` · 2026-07-16
 - [fix(server): return 500 not 404 on task lookup backend failure](https://github.com/shini4i/argo-watcher/pull/488) · `shini4i/argo-watcher` · 2026-07-15
 - [test(e2e): cover generic webhook notifications](https://github.com/shini4i/argo-watcher/pull/487) · `shini4i/argo-watcher` · 2026-07-15
 - [fix(client): redact auth credentials from debug cURL log](https://github.com/shini4i/argo-watcher/pull/486) · `shini4i/argo-watcher` · 2026-07-15
 - [fix(server): stop accepting connections before draining on shutdown](https://github.com/shini4i/argo-watcher/pull/485) · `shini4i/argo-watcher` · 2026-07-15
-- [fix(server): wait for in-flight WebSocket upgrades on shutdown](https://github.com/shini4i/argo-watcher/pull/484) · `shini4i/argo-watcher` · 2026-07-15
 
 ### 🐛 Recent Issues
 
