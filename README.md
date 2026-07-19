@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [test(e2e): cover single-replica postgres state](https://github.com/shini4i/argo-watcher/pull/496) · `shini4i/argo-watcher` · 2026-07-18
+- [refactor: unify config loading and adopt structured logging](https://github.com/shini4i/argo-watcher/pull/495) · `shini4i/argo-watcher` · 2026-07-18
+- [refactor(test): consolidate mocks onto gomock in internal/mocks](https://github.com/shini4i/argo-watcher/pull/494) · `shini4i/argo-watcher` · 2026-07-18
 - [feat(observability): add deployment_duration_seconds metric](https://github.com/shini4i/argo-watcher/pull/493) · `shini4i/argo-watcher` · 2026-07-17
 - [feat(observability): add example Grafana dashboard and monitoring stack](https://github.com/shini4i/argo-watcher/pull/492) · `shini4i/argo-watcher` · 2026-07-17
-- [test(e2e): cover scheduled lockdown and graceful WS-drain](https://github.com/shini4i/argo-watcher/pull/491) · `shini4i/argo-watcher` · 2026-07-17
-- [test(e2e): broaden per-release lab coverage across untested features](https://github.com/shini4i/argo-watcher/pull/490) · `shini4i/argo-watcher` · 2026-07-17
-- [test(e2e): drive scenarios through the real client binary](https://github.com/shini4i/argo-watcher/pull/489) · `shini4i/argo-watcher` · 2026-07-16
 
 ### 🐛 Recent Issues
 
