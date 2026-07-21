@@ -48,11 +48,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 
 ### 🐛 Recent Issues
 
+- [Anchored comparison fails when a PR splits chart files but the Application is still fetched from `main`](https://github.com/shini4i/argo-compare/issues/158) · `shini4i/argo-compare` · 2026-07-20
 - [Compare job fails on Helm templates when charts are stored alongside cluster config](https://github.com/shini4i/argo-compare/issues/153) · `shini4i/argo-compare` · 2026-07-06
 - [make errors easier to understand](https://github.com/shini4i/argo-watcher/issues/433) · `shini4i/argo-watcher` · 2026-05-05
 - [add support for ecr oci helm repositories](https://github.com/shini4i/argo-compare/issues/126) · `shini4i/argo-compare` · 2026-02-18
 - [Need to mask secrets in logs output and MR comments](https://github.com/shini4i/argo-compare/issues/118) · `shini4i/argo-compare` · 2025-10-30
-- [Handle cases when application disappears during deployment](https://github.com/shini4i/argo-watcher/issues/387) · `shini4i/argo-watcher` · 2025-08-20
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
