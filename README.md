@@ -40,19 +40,19 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [test(e2e): cover single-replica postgres state](https://github.com/shini4i/argo-watcher/pull/496) · `shini4i/argo-watcher` · 2026-07-18
-- [refactor: unify config loading and adopt structured logging](https://github.com/shini4i/argo-watcher/pull/495) · `shini4i/argo-watcher` · 2026-07-18
-- [refactor(test): consolidate mocks onto gomock in internal/mocks](https://github.com/shini4i/argo-watcher/pull/494) · `shini4i/argo-watcher` · 2026-07-18
-- [feat(observability): add deployment_duration_seconds metric](https://github.com/shini4i/argo-watcher/pull/493) · `shini4i/argo-watcher` · 2026-07-17
-- [feat(observability): add example Grafana dashboard and monitoring stack](https://github.com/shini4i/argo-watcher/pull/492) · `shini4i/argo-watcher` · 2026-07-17
+- [docs: prune redundant and correct outdated code comments](https://github.com/shini4i/argo-watcher/pull/502) · `shini4i/argo-watcher` · 2026-07-21
+- [chore: resolve SonarCloud code smells and CI hardening findings](https://github.com/shini4i/argo-watcher/pull/501) · `shini4i/argo-watcher` · 2026-07-21
+- [feat(state): fail fast and log when Postgres is unreachable at startup](https://github.com/shini4i/argo-watcher/pull/500) · `shini4i/argo-watcher` · 2026-07-21
+- [feat: surface ArgoCD-unreachable state in the UI (#498)](https://github.com/shini4i/argo-watcher/pull/499) · `shini4i/argo-watcher` · 2026-07-21
+- [fix(argo-watcher): give migration hook a dedicated ServiceAccount](https://github.com/shini4i/charts/pull/45) · `shini4i/charts` · 2026-07-21
 
 ### 🐛 Recent Issues
 
+- [No frontend indication when argo-watcher cannot reach ArgoCD](https://github.com/shini4i/argo-watcher/issues/498) · `shini4i/argo-watcher` · 2026-07-21
+- [Startup DB connection provides no observability when Postgres is unreachable](https://github.com/shini4i/argo-watcher/issues/497) · `shini4i/argo-watcher` · 2026-07-21
 - [Anchored comparison fails when a PR splits chart files but the Application is still fetched from `main`](https://github.com/shini4i/argo-compare/issues/158) · `shini4i/argo-compare` · 2026-07-20
 - [Compare job fails on Helm templates when charts are stored alongside cluster config](https://github.com/shini4i/argo-compare/issues/153) · `shini4i/argo-compare` · 2026-07-06
 - [make errors easier to understand](https://github.com/shini4i/argo-watcher/issues/433) · `shini4i/argo-watcher` · 2026-05-05
-- [add support for ecr oci helm repositories](https://github.com/shini4i/argo-compare/issues/126) · `shini4i/argo-compare` · 2026-02-18
-- [Need to mask secrets in logs output and MR comments](https://github.com/shini4i/argo-compare/issues/118) · `shini4i/argo-compare` · 2025-10-30
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
