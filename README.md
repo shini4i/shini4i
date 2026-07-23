@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [docs: prune redundant and correct outdated code comments](https://github.com/shini4i/argo-watcher/pull/502) · `shini4i/argo-watcher` · 2026-07-21
-- [chore: resolve SonarCloud code smells and CI hardening findings](https://github.com/shini4i/argo-watcher/pull/501) · `shini4i/argo-watcher` · 2026-07-21
-- [feat(state): fail fast and log when Postgres is unreachable at startup](https://github.com/shini4i/argo-watcher/pull/500) · `shini4i/argo-watcher` · 2026-07-21
-- [feat: surface ArgoCD-unreachable state in the UI (#498)](https://github.com/shini4i/argo-watcher/pull/499) · `shini4i/argo-watcher` · 2026-07-21
-- [fix(argo-watcher): give migration hook a dedicated ServiceAccount](https://github.com/shini4i/charts/pull/45) · `shini4i/charts` · 2026-07-21
+- [ci: fix sealed-secrets helm repo URL and clear SonarCloud uv-flag findings](https://github.com/shini4i/kubeseal-auto/pull/105) · `shini4i/kubeseal-auto` · 2026-07-22
+- [fix(app): diagnose cross-repo anchor valueFiles drift](https://github.com/shini4i/argo-compare/pull/159) · `shini4i/argo-compare` · 2026-07-22
+- [chore: bump dev deps](https://github.com/shini4i/argo-watcher/pull/507) · `shini4i/argo-watcher` · 2026-07-22
+- [feat(auth): support any OIDC provider, deprecate Keycloak-specific config](https://github.com/shini4i/argo-watcher/pull/506) · `shini4i/argo-watcher` · 2026-07-22
+- [feat(argocd)!: name the unreachable dependency in the banner](https://github.com/shini4i/argo-watcher/pull/505) · `shini4i/argo-watcher` · 2026-07-22
 
 ### 🐛 Recent Issues
 
