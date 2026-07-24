@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(ui): gate OTP submit so invalid input can't silently abort](https://github.com/shini4i/openfortivpn-gui/pull/24) · `shini4i/openfortivpn-gui` · 2026-07-23
+- [fix(ui): keep profile list slice in sync on profile update](https://github.com/shini4i/openfortivpn-gui/pull/23) · `shini4i/openfortivpn-gui` · 2026-07-23
+- [fix(docker): resolve SonarCloud findings in Dockerfile](https://github.com/shini4i/argo-compare/pull/160) · `shini4i/argo-compare` · 2026-07-23
+- [docs(oidc): clarify shared groups-claim requirement across providers](https://github.com/shini4i/argo-watcher/pull/508) · `shini4i/argo-watcher` · 2026-07-23
 - [ci: fix sealed-secrets helm repo URL and clear SonarCloud uv-flag findings](https://github.com/shini4i/kubeseal-auto/pull/105) · `shini4i/kubeseal-auto` · 2026-07-22
-- [fix(app): diagnose cross-repo anchor valueFiles drift](https://github.com/shini4i/argo-compare/pull/159) · `shini4i/argo-compare` · 2026-07-22
-- [chore: bump dev deps](https://github.com/shini4i/argo-watcher/pull/507) · `shini4i/argo-watcher` · 2026-07-22
-- [feat(auth): support any OIDC provider, deprecate Keycloak-specific config](https://github.com/shini4i/argo-watcher/pull/506) · `shini4i/argo-watcher` · 2026-07-22
-- [feat(argocd)!: name the unreachable dependency in the banner](https://github.com/shini4i/argo-watcher/pull/505) · `shini4i/argo-watcher` · 2026-07-22
 
 ### 🐛 Recent Issues
 
