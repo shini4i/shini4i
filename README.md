@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(web): bump postcss and dompurify for security advisories](https://github.com/shini4i/argo-watcher/pull/510) · `shini4i/argo-watcher` · 2026-07-26
 - [fix(ui): gate OTP submit so invalid input can't silently abort](https://github.com/shini4i/openfortivpn-gui/pull/24) · `shini4i/openfortivpn-gui` · 2026-07-23
 - [fix(ui): keep profile list slice in sync on profile update](https://github.com/shini4i/openfortivpn-gui/pull/23) · `shini4i/openfortivpn-gui` · 2026-07-23
 - [fix(docker): resolve SonarCloud findings in Dockerfile](https://github.com/shini4i/argo-compare/pull/160) · `shini4i/argo-compare` · 2026-07-23
 - [docs(oidc): clarify shared groups-claim requirement across providers](https://github.com/shini4i/argo-watcher/pull/508) · `shini4i/argo-watcher` · 2026-07-23
-- [ci: fix sealed-secrets helm repo URL and clear SonarCloud uv-flag findings](https://github.com/shini4i/kubeseal-auto/pull/105) · `shini4i/kubeseal-auto` · 2026-07-22
 
 ### 🐛 Recent Issues
 
