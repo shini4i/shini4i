@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(server): fit graceful shutdown into the pod grace period](https://github.com/shini4i/argo-watcher/pull/518) · `shini4i/argo-watcher` · 2026-07-28
+- [fix(server): stop uncredentialed tasks cancelling credentialed deploys](https://github.com/shini4i/argo-watcher/pull/517) · `shini4i/argo-watcher` · 2026-07-28
+- [refactor(e2e): replace lab harness glue with NodePorts, a shared lib and bats](https://github.com/shini4i/argo-watcher/pull/516) · `shini4i/argo-watcher` · 2026-07-28
 - [feat(server): share the deploy lock across replicas via postgres](https://github.com/shini4i/argo-watcher/pull/515) · `shini4i/argo-watcher` · 2026-07-27
 - [bump openfortivpn-gui version to 0.3.6](https://github.com/shini4i/nixpkgs/pull/32) · `shini4i/nixpkgs` · 2026-07-27
-- [feat(argo-watcher): add native oidc values block](https://github.com/shini4i/charts/pull/46) · `shini4i/charts` · 2026-07-27
-- [docs: add contribution guide and refresh community health files](https://github.com/shini4i/argo-watcher/pull/514) · `shini4i/argo-watcher` · 2026-07-27
-- [ci(dast): run nuclei weekly instead of on every change](https://github.com/shini4i/argo-watcher/pull/513) · `shini4i/argo-watcher` · 2026-07-27
 
 ### 🐛 Recent Issues
 
