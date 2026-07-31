@@ -40,19 +40,19 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [feat(argo-watcher): add optional argo-watcher-mcp deployment](https://github.com/shini4i/charts/pull/47) · `shini4i/charts` · 2026-07-30
+- [docs: add a security policy](https://github.com/shini4i/argo-watcher/pull/520) · `shini4i/argo-watcher` · 2026-07-30
+- [chore: draft v0.3.0 release](https://github.com/shini4i/argo-watcher-mcp/pull/18) · `shini4i/argo-watcher-mcp` · 2026-07-30
+- [feat(mcp)!: expand read-only argo-watcher coverage](https://github.com/shini4i/argo-watcher-mcp/pull/17) · `shini4i/argo-watcher-mcp` · 2026-07-30
 - [fix(server): fit graceful shutdown into the pod grace period](https://github.com/shini4i/argo-watcher/pull/518) · `shini4i/argo-watcher` · 2026-07-28
-- [fix(server): stop uncredentialed tasks cancelling credentialed deploys](https://github.com/shini4i/argo-watcher/pull/517) · `shini4i/argo-watcher` · 2026-07-28
-- [refactor(e2e): replace lab harness glue with NodePorts, a shared lib and bats](https://github.com/shini4i/argo-watcher/pull/516) · `shini4i/argo-watcher` · 2026-07-28
-- [feat(server): share the deploy lock across replicas via postgres](https://github.com/shini4i/argo-watcher/pull/515) · `shini4i/argo-watcher` · 2026-07-27
-- [bump openfortivpn-gui version to 0.3.6](https://github.com/shini4i/nixpkgs/pull/32) · `shini4i/nixpkgs` · 2026-07-27
 
 ### 🐛 Recent Issues
 
+- [fail if the task expects image that is not a part of application](https://github.com/shini4i/argo-watcher/issues/519) · `shini4i/argo-watcher` · 2026-07-30
 - [No frontend indication when argo-watcher cannot reach ArgoCD](https://github.com/shini4i/argo-watcher/issues/498) · `shini4i/argo-watcher` · 2026-07-21
 - [Startup DB connection provides no observability when Postgres is unreachable](https://github.com/shini4i/argo-watcher/issues/497) · `shini4i/argo-watcher` · 2026-07-21
 - [Anchored comparison fails when a PR splits chart files but the Application is still fetched from `main`](https://github.com/shini4i/argo-compare/issues/158) · `shini4i/argo-compare` · 2026-07-20
 - [Compare job fails on Helm templates when charts are stored alongside cluster config](https://github.com/shini4i/argo-compare/issues/153) · `shini4i/argo-compare` · 2026-07-06
-- [make errors easier to understand](https://github.com/shini4i/argo-watcher/issues/433) · `shini4i/argo-watcher` · 2026-05-05
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
