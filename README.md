@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [feat(server): fail fast when the image is not part of the application](https://github.com/shini4i/argo-watcher/pull/521) · `shini4i/argo-watcher` · 2026-08-02
-- [feat(argo-watcher): add optional argo-watcher-mcp deployment](https://github.com/shini4i/charts/pull/47) · `shini4i/charts` · 2026-07-30
-- [docs: add a security policy](https://github.com/shini4i/argo-watcher/pull/520) · `shini4i/argo-watcher` · 2026-07-30
-- [chore: draft v0.3.0 release](https://github.com/shini4i/argo-watcher-mcp/pull/18) · `shini4i/argo-watcher-mcp` · 2026-07-30
-- [feat(mcp)!: expand read-only argo-watcher coverage](https://github.com/shini4i/argo-watcher-mcp/pull/17) · `shini4i/argo-watcher-mcp` · 2026-07-30
+- [fix(web): show a loading screen while the session is resolved](https://github.com/shini4i/argo-watcher/pull/525) · `shini4i/argo-watcher` · 2026-08-03
+- [docs: clarify what the action does and add a flow diagram](https://github.com/shini4i/helm-charts-updater/pull/67) · `shini4i/helm-charts-updater` · 2026-08-03
+- [docs: restyle badges and add CI, coverage and python badges](https://github.com/shini4i/helm-charts-updater/pull/66) · `shini4i/helm-charts-updater` · 2026-08-03
+- [fix: detect rejected pushes and stop rewriting Chart.yaml](https://github.com/shini4i/helm-charts-updater/pull/65) · `shini4i/helm-charts-updater` · 2026-08-03
+- [fix(server): stop logging an absent task timeout as non-positive](https://github.com/shini4i/argo-watcher/pull/524) · `shini4i/argo-watcher` · 2026-08-03
 
 ### 🐛 Recent Issues
 
