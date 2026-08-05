@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(server): report the real cause of a degraded or stalled rollout](https://github.com/shini4i/argo-watcher/pull/527) · `shini4i/argo-watcher` · 2026-08-04
 - [fix(web): show a loading screen while the session is resolved](https://github.com/shini4i/argo-watcher/pull/525) · `shini4i/argo-watcher` · 2026-08-03
 - [docs: clarify what the action does and add a flow diagram](https://github.com/shini4i/helm-charts-updater/pull/67) · `shini4i/helm-charts-updater` · 2026-08-03
 - [docs: restyle badges and add CI, coverage and python badges](https://github.com/shini4i/helm-charts-updater/pull/66) · `shini4i/helm-charts-updater` · 2026-08-03
 - [fix: detect rejected pushes and stop rewriting Chart.yaml](https://github.com/shini4i/helm-charts-updater/pull/65) · `shini4i/helm-charts-updater` · 2026-08-03
-- [fix(server): stop logging an absent task timeout as non-positive](https://github.com/shini4i/argo-watcher/pull/524) · `shini4i/argo-watcher` · 2026-08-03
 
 ### 🐛 Recent Issues
 
