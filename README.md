@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [feat(server): require a credential on the WebSocket handshake](https://github.com/shini4i/argo-watcher/pull/530) · `shini4i/argo-watcher` · 2026-08-05
+- [feat(server): require a credential on read endpoints when OIDC is on](https://github.com/shini4i/argo-watcher/pull/529) · `shini4i/argo-watcher` · 2026-08-05
+- [fix(web): tick the tasks-table duration while a task is in progress](https://github.com/shini4i/argo-watcher/pull/528) · `shini4i/argo-watcher` · 2026-08-05
 - [fix(server): report the real cause of a degraded or stalled rollout](https://github.com/shini4i/argo-watcher/pull/527) · `shini4i/argo-watcher` · 2026-08-04
 - [fix(web): show a loading screen while the session is resolved](https://github.com/shini4i/argo-watcher/pull/525) · `shini4i/argo-watcher` · 2026-08-03
-- [docs: clarify what the action does and add a flow diagram](https://github.com/shini4i/helm-charts-updater/pull/67) · `shini4i/helm-charts-updater` · 2026-08-03
-- [docs: restyle badges and add CI, coverage and python badges](https://github.com/shini4i/helm-charts-updater/pull/66) · `shini4i/helm-charts-updater` · 2026-08-03
-- [fix: detect rejected pushes and stop rewriting Chart.yaml](https://github.com/shini4i/helm-charts-updater/pull/65) · `shini4i/helm-charts-updater` · 2026-08-03
 
 ### 🐛 Recent Issues
 
