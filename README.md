@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [feat(auth): let the client authenticate its reads and close the task lookup](https://github.com/shini4i/argo-watcher/pull/532) · `shini4i/argo-watcher` · 2026-08-07
 - [fix(server): report what is out of sync when a rollout fails](https://github.com/shini4i/argo-watcher/pull/531) · `shini4i/argo-watcher` · 2026-08-06
 - [feat(server): require a credential on the WebSocket handshake](https://github.com/shini4i/argo-watcher/pull/530) · `shini4i/argo-watcher` · 2026-08-05
 - [feat(server): require a credential on read endpoints when OIDC is on](https://github.com/shini4i/argo-watcher/pull/529) · `shini4i/argo-watcher` · 2026-08-05
 - [fix(web): tick the tasks-table duration while a task is in progress](https://github.com/shini4i/argo-watcher/pull/528) · `shini4i/argo-watcher` · 2026-08-05
-- [fix(server): report the real cause of a degraded or stalled rollout](https://github.com/shini4i/argo-watcher/pull/527) · `shini4i/argo-watcher` · 2026-08-04
 
 ### 🐛 Recent Issues
 
