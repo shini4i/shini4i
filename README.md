@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [chore(migrate): drop lib/pq by using the pgx golang-migrate driver](https://github.com/shini4i/argo-watcher/pull/540) · `shini4i/argo-watcher` · 2026-08-11
+- [refactor(server): route with chi instead of gin](https://github.com/shini4i/argo-watcher/pull/539) · `shini4i/argo-watcher` · 2026-08-11
+- [refactor(web): share one ws status protocol between both services](https://github.com/shini4i/argo-watcher/pull/538) · `shini4i/argo-watcher` · 2026-08-11
+- [test(web): add a playwright browser suite for the ui](https://github.com/shini4i/argo-watcher/pull/537) · `shini4i/argo-watcher` · 2026-08-11
 - [fix(web): stop the back button relogin loop on a direct task url](https://github.com/shini4i/argo-watcher/pull/536) · `shini4i/argo-watcher` · 2026-08-10
-- [feat(health)!: follow argo-watcher's liveness/readiness split](https://github.com/shini4i/argo-watcher-mcp/pull/19) · `shini4i/argo-watcher-mcp` · 2026-08-08
-- [feat(argo-watcher): point probes at livez and readyz](https://github.com/shini4i/charts/pull/48) · `shini4i/charts` · 2026-08-08
-- [feat(server): split the health endpoint into liveness and readiness](https://github.com/shini4i/argo-watcher/pull/535) · `shini4i/argo-watcher` · 2026-08-08
-- [feat(auth): let the client authenticate its reads and close the task lookup](https://github.com/shini4i/argo-watcher/pull/532) · `shini4i/argo-watcher` · 2026-08-07
 
 ### 🐛 Recent Issues
 
