@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [feat(argo-watcher)!: back persistence with the Zalando postgres operator](https://github.com/shini4i/disposable-k8s-cluster/pull/34) · `shini4i/disposable-k8s-cluster` · 2026-08-13
+- [chore(addons): bump helm chart versions to latest](https://github.com/shini4i/gitops-playground/pull/4) · `shini4i/gitops-playground` · 2026-08-13
+- [chore(deps)!: bump all dependencies and drop ingress-nginx](https://github.com/shini4i/disposable-k8s-cluster/pull/33) · `shini4i/disposable-k8s-cluster` · 2026-08-13
 - [fix(web): show why an OIDC sign-in failed instead of a dead app](https://github.com/shini4i/argo-watcher/pull/542) · `shini4i/argo-watcher` · 2026-08-12
 - [docs(argo-watcher): document install and configuration](https://github.com/shini4i/charts/pull/49) · `shini4i/charts` · 2026-08-12
-- [test(server): cover encoded open-redirect vectors on the slash redirect](https://github.com/shini4i/argo-watcher/pull/541) · `shini4i/argo-watcher` · 2026-08-12
-- [chore(migrate): drop lib/pq by using the pgx golang-migrate driver](https://github.com/shini4i/argo-watcher/pull/540) · `shini4i/argo-watcher` · 2026-08-11
-- [refactor(server): route with chi instead of gin](https://github.com/shini4i/argo-watcher/pull/539) · `shini4i/argo-watcher` · 2026-08-11
 
 ### 🐛 Recent Issues
 
