@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [docs(web): prune comment bloat from the frontend](https://github.com/shini4i/argo-watcher/pull/544) · `shini4i/argo-watcher` · 2026-08-15
+- [docs: prune comment bloat across the Go packages](https://github.com/shini4i/argo-watcher/pull/543) · `shini4i/argo-watcher` · 2026-08-15
 - [feat(argo-watcher)!: back persistence with the Zalando postgres operator](https://github.com/shini4i/disposable-k8s-cluster/pull/34) · `shini4i/disposable-k8s-cluster` · 2026-08-13
 - [chore(addons): bump helm chart versions to latest](https://github.com/shini4i/gitops-playground/pull/4) · `shini4i/gitops-playground` · 2026-08-13
 - [chore(deps)!: bump all dependencies and drop ingress-nginx](https://github.com/shini4i/disposable-k8s-cluster/pull/33) · `shini4i/disposable-k8s-cluster` · 2026-08-13
-- [fix(web): show why an OIDC sign-in failed instead of a dead app](https://github.com/shini4i/argo-watcher/pull/542) · `shini4i/argo-watcher` · 2026-08-12
-- [docs(argo-watcher): document install and configuration](https://github.com/shini4i/charts/pull/49) · `shini4i/charts` · 2026-08-12
 
 ### 🐛 Recent Issues
 
