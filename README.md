@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [ci: pin the task version installed by setup-task](https://github.com/shini4i/argo-watcher/pull/548) · `shini4i/argo-watcher` · 2026-08-17
+- [docs: revalidate every page against the code and cut the bloat](https://github.com/shini4i/argo-watcher/pull/547) · `shini4i/argo-watcher` · 2026-08-17
+- [fix(client): refuse a redirect that steps down from https](https://github.com/shini4i/argo-watcher/pull/546) · `shini4i/argo-watcher` · 2026-08-17
+- [feat(observability): report write-backs skipped without a credential](https://github.com/shini4i/argo-watcher/pull/545) · `shini4i/argo-watcher` · 2026-08-17
 - [docs(web): prune comment bloat from the frontend](https://github.com/shini4i/argo-watcher/pull/544) · `shini4i/argo-watcher` · 2026-08-15
-- [docs: prune comment bloat across the Go packages](https://github.com/shini4i/argo-watcher/pull/543) · `shini4i/argo-watcher` · 2026-08-15
-- [feat(argo-watcher)!: back persistence with the Zalando postgres operator](https://github.com/shini4i/disposable-k8s-cluster/pull/34) · `shini4i/disposable-k8s-cluster` · 2026-08-13
-- [chore(addons): bump helm chart versions to latest](https://github.com/shini4i/gitops-playground/pull/4) · `shini4i/gitops-playground` · 2026-08-13
-- [chore(deps)!: bump all dependencies and drop ingress-nginx](https://github.com/shini4i/disposable-k8s-cluster/pull/33) · `shini4i/disposable-k8s-cluster` · 2026-08-13
 
 ### 🐛 Recent Issues
 
