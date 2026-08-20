@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [feat(server): hand deployments over between replicas via task leases](https://github.com/shini4i/argo-watcher/pull/550) · `shini4i/argo-watcher` · 2026-08-19
+- [feat(observability): explain why an out-of-sync deployment failed](https://github.com/shini4i/argo-watcher/pull/549) · `shini4i/argo-watcher` · 2026-08-19
 - [fix(app): repair job template rendering and widen its configuration](https://github.com/shini4i/charts/pull/50) · `shini4i/charts` · 2026-08-18
 - [ci: pin the task version installed by setup-task](https://github.com/shini4i/argo-watcher/pull/548) · `shini4i/argo-watcher` · 2026-08-17
 - [docs: revalidate every page against the code and cut the bloat](https://github.com/shini4i/argo-watcher/pull/547) · `shini4i/argo-watcher` · 2026-08-17
-- [fix(client): refuse a redirect that steps down from https](https://github.com/shini4i/argo-watcher/pull/546) · `shini4i/argo-watcher` · 2026-08-17
-- [feat(observability): report write-backs skipped without a credential](https://github.com/shini4i/argo-watcher/pull/545) · `shini4i/argo-watcher` · 2026-08-17
 
 ### 🐛 Recent Issues
 
