@@ -40,19 +40,19 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [feat(server): hand deployments over between replicas via task leases](https://github.com/shini4i/argo-watcher/pull/550) · `shini4i/argo-watcher` · 2026-08-19
-- [feat(observability): explain why an out-of-sync deployment failed](https://github.com/shini4i/argo-watcher/pull/549) · `shini4i/argo-watcher` · 2026-08-19
-- [fix(app): repair job template rendering and widen its configuration](https://github.com/shini4i/charts/pull/50) · `shini4i/charts` · 2026-08-18
-- [ci: pin the task version installed by setup-task](https://github.com/shini4i/argo-watcher/pull/548) · `shini4i/argo-watcher` · 2026-08-17
-- [docs: revalidate every page against the code and cut the bloat](https://github.com/shini4i/argo-watcher/pull/547) · `shini4i/argo-watcher` · 2026-08-17
+- [docs(argo-watcher): trim the readme and fix the mcp oidc claim](https://github.com/shini4i/charts/pull/51) · `shini4i/charts` · 2026-08-20
+- [feat(observability)!: record deployment outcomes as deployments_total](https://github.com/shini4i/argo-watcher/pull/556) · `shini4i/argo-watcher` · 2026-08-20
+- [fix(observability)!: label deployment metrics only once ArgoCD confirms](https://github.com/shini4i/argo-watcher/pull/555) · `shini4i/argo-watcher` · 2026-08-20
+- [fix(observability): make the example dashboard importable and readable](https://github.com/shini4i/argo-watcher/pull/553) · `shini4i/argo-watcher` · 2026-08-20
+- [feat(server): prune deployment history past a retention window](https://github.com/shini4i/argo-watcher/pull/551) · `shini4i/argo-watcher` · 2026-08-20
 
 ### 🐛 Recent Issues
 
+- [Record deployment outcomes as deployments_total{result}](https://github.com/shini4i/argo-watcher/issues/554) · `shini4i/argo-watcher` · 2026-08-20
+- [Per-application metrics are emitted before Argo CD confirms the application exists](https://github.com/shini4i/argo-watcher/issues/552) · `shini4i/argo-watcher` · 2026-08-20
 - [fail if the task expects image that is not a part of application](https://github.com/shini4i/argo-watcher/issues/519) · `shini4i/argo-watcher` · 2026-07-30
 - [No frontend indication when argo-watcher cannot reach ArgoCD](https://github.com/shini4i/argo-watcher/issues/498) · `shini4i/argo-watcher` · 2026-07-21
 - [Startup DB connection provides no observability when Postgres is unreachable](https://github.com/shini4i/argo-watcher/issues/497) · `shini4i/argo-watcher` · 2026-07-21
-- [Anchored comparison fails when a PR splits chart files but the Application is still fetched from `main`](https://github.com/shini4i/argo-compare/issues/158) · `shini4i/argo-compare` · 2026-07-20
-- [Compare job fails on Helm templates when charts are stored alongside cluster config](https://github.com/shini4i/argo-compare/issues/153) · `shini4i/argo-compare` · 2026-07-06
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
