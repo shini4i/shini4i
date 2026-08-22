@@ -40,19 +40,19 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [bump openfortivpn-gui version to 0.4.0](https://github.com/shini4i/nixpkgs/pull/33) · `shini4i/nixpkgs` · 2026-08-21
+- [feat(ui): add a way to forget a saved password](https://github.com/shini4i/openfortivpn-gui/pull/30) · `shini4i/openfortivpn-gui` · 2026-08-21
+- [fix(vpn): drain openfortivpn output before reporting a terminal state](https://github.com/shini4i/openfortivpn-gui/pull/29) · `shini4i/openfortivpn-gui` · 2026-08-21
+- [fix: certificate auth, helper DNS, tray race and credential reuse](https://github.com/shini4i/openfortivpn-gui/pull/28) · `shini4i/openfortivpn-gui` · 2026-08-21
 - [docs(argo-watcher): trim the readme and fix the mcp oidc claim](https://github.com/shini4i/charts/pull/51) · `shini4i/charts` · 2026-08-20
-- [feat(observability)!: record deployment outcomes as deployments_total](https://github.com/shini4i/argo-watcher/pull/556) · `shini4i/argo-watcher` · 2026-08-20
-- [fix(observability)!: label deployment metrics only once ArgoCD confirms](https://github.com/shini4i/argo-watcher/pull/555) · `shini4i/argo-watcher` · 2026-08-20
-- [fix(observability): make the example dashboard importable and readable](https://github.com/shini4i/argo-watcher/pull/553) · `shini4i/argo-watcher` · 2026-08-20
-- [feat(server): prune deployment history past a retention window](https://github.com/shini4i/argo-watcher/pull/551) · `shini4i/argo-watcher` · 2026-08-20
 
 ### 🐛 Recent Issues
 
+- [Saved password is orphaned when a profile switches away from password auth](https://github.com/shini4i/openfortivpn-gui/issues/31) · `shini4i/openfortivpn-gui` · 2026-08-21
+- [Final openfortivpn output can be lost when the process exits](https://github.com/shini4i/openfortivpn-gui/issues/27) · `shini4i/openfortivpn-gui` · 2026-08-21
+- [Add a way to forget a saved password](https://github.com/shini4i/openfortivpn-gui/issues/26) · `shini4i/openfortivpn-gui` · 2026-08-21
 - [Record deployment outcomes as deployments_total{result}](https://github.com/shini4i/argo-watcher/issues/554) · `shini4i/argo-watcher` · 2026-08-20
 - [Per-application metrics are emitted before Argo CD confirms the application exists](https://github.com/shini4i/argo-watcher/issues/552) · `shini4i/argo-watcher` · 2026-08-20
-- [fail if the task expects image that is not a part of application](https://github.com/shini4i/argo-watcher/issues/519) · `shini4i/argo-watcher` · 2026-07-30
-- [No frontend indication when argo-watcher cannot reach ArgoCD](https://github.com/shini4i/argo-watcher/issues/498) · `shini4i/argo-watcher` · 2026-07-21
-- [Startup DB connection provides no observability when Postgres is unreachable](https://github.com/shini4i/argo-watcher/issues/497) · `shini4i/argo-watcher` · 2026-07-21
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
