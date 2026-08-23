@@ -40,19 +40,19 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [bump openfortivpn-gui version to 0.4.0](https://github.com/shini4i/nixpkgs/pull/33) · `shini4i/nixpkgs` · 2026-08-21
-- [feat(ui): add a way to forget a saved password](https://github.com/shini4i/openfortivpn-gui/pull/30) · `shini4i/openfortivpn-gui` · 2026-08-21
-- [fix(vpn): drain openfortivpn output before reporting a terminal state](https://github.com/shini4i/openfortivpn-gui/pull/29) · `shini4i/openfortivpn-gui` · 2026-08-21
-- [fix: certificate auth, helper DNS, tray race and credential reuse](https://github.com/shini4i/openfortivpn-gui/pull/28) · `shini4i/openfortivpn-gui` · 2026-08-21
-- [docs(argo-watcher): trim the readme and fix the mcp oidc claim](https://github.com/shini4i/charts/pull/51) · `shini4i/charts` · 2026-08-20
+- [fix(server)!: serve argo_cd_url as a URL string](https://github.com/shini4i/argo-watcher/pull/573) · `shini4i/argo-watcher` · 2026-08-22
+- [fix(server): bound what an unauthenticated task submission can ask for](https://github.com/shini4i/argo-watcher/pull/572) · `shini4i/argo-watcher` · 2026-08-22
+- [feat(auth)!: drop the Keycloak backward-compatibility surfaces](https://github.com/shini4i/argo-watcher/pull/571) · `shini4i/argo-watcher` · 2026-08-22
+- [fix(web): stop shipping source maps, repair the swagger page](https://github.com/shini4i/argo-watcher/pull/570) · `shini4i/argo-watcher` · 2026-08-22
+- [chore(ci): bump action pins, shrink the docker build context](https://github.com/shini4i/argo-watcher/pull/569) · `shini4i/argo-watcher` · 2026-08-22
 
 ### 🐛 Recent Issues
 
-- [Saved password is orphaned when a profile switches away from password auth](https://github.com/shini4i/openfortivpn-gui/issues/31) · `shini4i/openfortivpn-gui` · 2026-08-21
-- [Final openfortivpn output can be lost when the process exits](https://github.com/shini4i/openfortivpn-gui/issues/27) · `shini4i/openfortivpn-gui` · 2026-08-21
-- [Add a way to forget a saved password](https://github.com/shini4i/openfortivpn-gui/issues/26) · `shini4i/openfortivpn-gui` · 2026-08-21
-- [Record deployment outcomes as deployments_total{result}](https://github.com/shini4i/argo-watcher/issues/554) · `shini4i/argo-watcher` · 2026-08-20
-- [Per-application metrics are emitted before Argo CD confirms the application exists](https://github.com/shini4i/argo-watcher/issues/552) · `shini4i/argo-watcher` · 2026-08-20
+- [Docs: drop the deploy token deprecation note and state the network boundary](https://github.com/shini4i/argo-watcher/issues/568) · `shini4i/argo-watcher` · 2026-08-22
+- [Serve argo_cd_url as a URL string instead of a Go url.URL struct](https://github.com/shini4i/argo-watcher/issues/567) · `shini4i/argo-watcher` · 2026-08-22
+- [Remove the KEYCLOAK_* environment variable aliases](https://github.com/shini4i/argo-watcher/issues/566) · `shini4i/argo-watcher` · 2026-08-22
+- [Send security response headers on every route](https://github.com/shini4i/argo-watcher/issues/565) · `shini4i/argo-watcher` · 2026-08-22
+- [Bind OIDC and JWT credentials to this application](https://github.com/shini4i/argo-watcher/issues/564) · `shini4i/argo-watcher` · 2026-08-22
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
