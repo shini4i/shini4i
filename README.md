@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(auth): bind OIDC and JWT credentials to this application](https://github.com/shini4i/argo-watcher/pull/577) · `shini4i/argo-watcher` · 2026-08-23
+- [ci: gate the Go tree with golangci-lint, document the network boundary](https://github.com/shini4i/argo-watcher/pull/576) · `shini4i/argo-watcher` · 2026-08-23
+- [fix(server): refuse cross-origin requests in production](https://github.com/shini4i/argo-watcher/pull/575) · `shini4i/argo-watcher` · 2026-08-23
+- [feat(server): send security response headers on every route](https://github.com/shini4i/argo-watcher/pull/574) · `shini4i/argo-watcher` · 2026-08-23
 - [fix(server)!: serve argo_cd_url as a URL string](https://github.com/shini4i/argo-watcher/pull/573) · `shini4i/argo-watcher` · 2026-08-22
-- [fix(server): bound what an unauthenticated task submission can ask for](https://github.com/shini4i/argo-watcher/pull/572) · `shini4i/argo-watcher` · 2026-08-22
-- [feat(auth)!: drop the Keycloak backward-compatibility surfaces](https://github.com/shini4i/argo-watcher/pull/571) · `shini4i/argo-watcher` · 2026-08-22
-- [fix(web): stop shipping source maps, repair the swagger page](https://github.com/shini4i/argo-watcher/pull/570) · `shini4i/argo-watcher` · 2026-08-22
-- [chore(ci): bump action pins, shrink the docker build context](https://github.com/shini4i/argo-watcher/pull/569) · `shini4i/argo-watcher` · 2026-08-22
 
 ### 🐛 Recent Issues
 
