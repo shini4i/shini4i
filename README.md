@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [feat(appset): add the ApplicationSet git file generator](https://github.com/shini4i/argo-compare/pull/165) · `shini4i/argo-compare` · 2026-08-25
+- [feat(appset): add ArgoCD's template functions and render field by field](https://github.com/shini4i/argo-compare/pull/164) · `shini4i/argo-compare` · 2026-08-25
+- [feat(appset): add the ApplicationSet git directory generator](https://github.com/shini4i/argo-compare/pull/162) · `shini4i/argo-compare` · 2026-08-25
+- [feat(app): add ApplicationSet support for goTemplate list generators](https://github.com/shini4i/argo-compare/pull/161) · `shini4i/argo-compare` · 2026-08-25
 - [fix(auth): bind OIDC and JWT credentials to this application](https://github.com/shini4i/argo-watcher/pull/577) · `shini4i/argo-watcher` · 2026-08-23
-- [ci: gate the Go tree with golangci-lint, document the network boundary](https://github.com/shini4i/argo-watcher/pull/576) · `shini4i/argo-watcher` · 2026-08-23
-- [fix(server): refuse cross-origin requests in production](https://github.com/shini4i/argo-watcher/pull/575) · `shini4i/argo-watcher` · 2026-08-23
-- [feat(server): send security response headers on every route](https://github.com/shini4i/argo-watcher/pull/574) · `shini4i/argo-watcher` · 2026-08-23
-- [fix(server)!: serve argo_cd_url as a URL string](https://github.com/shini4i/argo-watcher/pull/573) · `shini4i/argo-watcher` · 2026-08-22
 
 ### 🐛 Recent Issues
 
