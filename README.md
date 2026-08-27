@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [feat(appset): add the ApplicationSet git file generator](https://github.com/shini4i/argo-compare/pull/165) · `shini4i/argo-compare` · 2026-08-25
-- [feat(appset): add ArgoCD's template functions and render field by field](https://github.com/shini4i/argo-compare/pull/164) · `shini4i/argo-compare` · 2026-08-25
-- [feat(appset): add the ApplicationSet git directory generator](https://github.com/shini4i/argo-compare/pull/162) · `shini4i/argo-compare` · 2026-08-25
-- [feat(app): add ApplicationSet support for goTemplate list generators](https://github.com/shini4i/argo-compare/pull/161) · `shini4i/argo-compare` · 2026-08-25
-- [fix(auth): bind OIDC and JWT credentials to this application](https://github.com/shini4i/argo-watcher/pull/577) · `shini4i/argo-watcher` · 2026-08-23
+- [test(e2e): validate a generated Application's diff against ArgoCD](https://github.com/shini4i/argo-compare/pull/171) · `shini4i/argo-compare` · 2026-08-27
+- [fix(web): show why a read failed instead of an empty task list](https://github.com/shini4i/argo-watcher/pull/580) · `shini4i/argo-watcher` · 2026-08-27
+- [test(e2e): validate the reported diff against ArgoCD's own rendering](https://github.com/shini4i/argo-compare/pull/169) · `shini4i/argo-compare` · 2026-08-26
+- [test(e2e): add the end-to-end lab with ApplicationSet parity](https://github.com/shini4i/argo-compare/pull/168) · `shini4i/argo-compare` · 2026-08-26
+- [feat(comment): publish one merge request note per run](https://github.com/shini4i/argo-compare/pull/167) · `shini4i/argo-compare` · 2026-08-26
 
 ### 🐛 Recent Issues
 
