@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(web): search every task, not just the loaded page](https://github.com/shini4i/argo-watcher/pull/583) · `shini4i/argo-watcher` · 2026-09-01
+- [fix(observability): count a first deployment as an increase](https://github.com/shini4i/argo-watcher/pull/582) · `shini4i/argo-watcher` · 2026-09-01
 - [test(e2e): cover application deploy tokens against a real Keycloak](https://github.com/shini4i/argo-watcher/pull/581) · `shini4i/argo-watcher` · 2026-08-27
 - [test(e2e): check the template functions against ArgoCD's own](https://github.com/shini4i/argo-compare/pull/173) · `shini4i/argo-compare` · 2026-08-27
 - [test(e2e): gate added and removed generated Applications](https://github.com/shini4i/argo-compare/pull/172) · `shini4i/argo-compare` · 2026-08-27
-- [test(e2e): validate a generated Application's diff against ArgoCD](https://github.com/shini4i/argo-compare/pull/171) · `shini4i/argo-compare` · 2026-08-27
-- [fix(web): show why a read failed instead of an empty task list](https://github.com/shini4i/argo-watcher/pull/580) · `shini4i/argo-watcher` · 2026-08-27
 
 ### 🐛 Recent Issues
 
