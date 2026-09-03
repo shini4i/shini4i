@@ -40,19 +40,19 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [fix(e2e): derive the race image Go version from go.mod](https://github.com/shini4i/argo-watcher/pull/585) · `shini4i/argo-watcher` · 2026-09-01
-- [fix(migrate): survive a database newer than the bundled migrations](https://github.com/shini4i/argo-watcher/pull/584) · `shini4i/argo-watcher` · 2026-09-01
-- [fix(web): search every task, not just the loaded page](https://github.com/shini4i/argo-watcher/pull/583) · `shini4i/argo-watcher` · 2026-09-01
-- [fix(observability): count a first deployment as an increase](https://github.com/shini4i/argo-watcher/pull/582) · `shini4i/argo-watcher` · 2026-09-01
-- [test(e2e): cover application deploy tokens against a real Keycloak](https://github.com/shini4i/argo-watcher/pull/581) · `shini4i/argo-watcher` · 2026-08-27
+- [feat(app)!: fix rendering bugs and close reliability gaps](https://github.com/shini4i/charts/pull/53) · `shini4i/charts` · 2026-09-03
+- [bump openfortivpn-gui version to 0.4.1](https://github.com/shini4i/nixpkgs/pull/34) · `shini4i/nixpkgs` · 2026-09-02
+- [docs: add an ApplicationSet repository layout example](https://github.com/shini4i/argo-compare/pull/174) · `shini4i/argo-compare` · 2026-09-02
+- [fix(ui): drop a saved password when a profile stops using one](https://github.com/shini4i/openfortivpn-gui/pull/32) · `shini4i/openfortivpn-gui` · 2026-09-02
+- [fix(server): discard server-owned fields from a task submission](https://github.com/shini4i/argo-watcher/pull/586) · `shini4i/argo-watcher` · 2026-09-02
 
 ### 🐛 Recent Issues
 
+- [Changed .yml manifests are silently ignored; only .yaml is picked up](https://github.com/shini4i/argo-compare/issues/176) · `shini4i/argo-compare` · 2026-09-02
+- [Discovery scan warns about files that merely contain the word "ApplicationSet"](https://github.com/shini4i/argo-compare/issues/175) · `shini4i/argo-compare` · 2026-09-02
 - [Docs: drop the deploy token deprecation note and state the network boundary](https://github.com/shini4i/argo-watcher/issues/568) · `shini4i/argo-watcher` · 2026-08-22
 - [Serve argo_cd_url as a URL string instead of a Go url.URL struct](https://github.com/shini4i/argo-watcher/issues/567) · `shini4i/argo-watcher` · 2026-08-22
 - [Remove the KEYCLOAK_* environment variable aliases](https://github.com/shini4i/argo-watcher/issues/566) · `shini4i/argo-watcher` · 2026-08-22
-- [Send security response headers on every route](https://github.com/shini4i/argo-watcher/issues/565) · `shini4i/argo-watcher` · 2026-08-22
-- [Bind OIDC and JWT credentials to this application](https://github.com/shini4i/argo-watcher/issues/564) · `shini4i/argo-watcher` · 2026-08-22
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
