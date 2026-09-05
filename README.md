@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(appset): stop warning about files that only mention the kind](https://github.com/shini4i/argo-compare/pull/178) · `shini4i/argo-compare` · 2026-09-05
 - [fix(git): compare Applications committed as .yml](https://github.com/shini4i/argo-compare/pull/177) · `shini4i/argo-compare` · 2026-09-03
 - [fix(web): stop a long author from widening the task table](https://github.com/shini4i/argo-watcher/pull/587) · `shini4i/argo-watcher` · 2026-09-03
 - [feat(app)!: fix rendering bugs and close reliability gaps](https://github.com/shini4i/charts/pull/53) · `shini4i/charts` · 2026-09-03
 - [bump openfortivpn-gui version to 0.4.1](https://github.com/shini4i/nixpkgs/pull/34) · `shini4i/nixpkgs` · 2026-09-02
-- [docs: add an ApplicationSet repository layout example](https://github.com/shini4i/argo-compare/pull/174) · `shini4i/argo-compare` · 2026-09-02
 
 ### 🐛 Recent Issues
 
