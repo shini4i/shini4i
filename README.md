@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [ci(release): drop 1Password in favour of the workflow token](https://github.com/shini4i/atlantis-emoji-gate/pull/29) · `shini4i/atlantis-emoji-gate` · 2026-09-06
+- [fix(client): stop forwarding Private-Token on HTTP redirects](https://github.com/shini4i/atlantis-emoji-gate/pull/28) · `shini4i/atlantis-emoji-gate` · 2026-09-06
 - [fix(notifications): escape webhook values rendered into a JSON body](https://github.com/shini4i/argo-watcher/pull/590) · `shini4i/argo-watcher` · 2026-09-05
 - [fix(client): bound pagination by request count and add a run deadline](https://github.com/shini4i/atlantis-emoji-gate/pull/27) · `shini4i/atlantis-emoji-gate` · 2026-09-05
 - [fix: write-back reporting, override file edits, lockdown parsing](https://github.com/shini4i/argo-watcher/pull/589) · `shini4i/argo-watcher` · 2026-09-05
-- [fix(gate): use GitLab diff-version time for restricted-mode cutoff](https://github.com/shini4i/atlantis-emoji-gate/pull/26) · `shini4i/atlantis-emoji-gate` · 2026-09-05
-- [fix(appset): stop warning about files that only mention the kind](https://github.com/shini4i/argo-compare/pull/178) · `shini4i/argo-compare` · 2026-09-05
 
 ### 🐛 Recent Issues
 
