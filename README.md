@@ -40,19 +40,19 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [chore(deps): bump go, npm, ci pins and dev images to latest](https://github.com/shini4i/argo-watcher/pull/592) · `shini4i/argo-watcher` · 2026-09-07
+- [feat(web): rework the task list and detail screens, add an overview](https://github.com/shini4i/argo-watcher/pull/591) · `shini4i/argo-watcher` · 2026-09-07
 - [ci(release): drop 1Password in favour of the workflow token](https://github.com/shini4i/atlantis-emoji-gate/pull/29) · `shini4i/atlantis-emoji-gate` · 2026-09-06
 - [fix(client): stop forwarding Private-Token on HTTP redirects](https://github.com/shini4i/atlantis-emoji-gate/pull/28) · `shini4i/atlantis-emoji-gate` · 2026-09-06
 - [fix(notifications): escape webhook values rendered into a JSON body](https://github.com/shini4i/argo-watcher/pull/590) · `shini4i/argo-watcher` · 2026-09-05
-- [fix(client): bound pagination by request count and add a run deadline](https://github.com/shini4i/atlantis-emoji-gate/pull/27) · `shini4i/atlantis-emoji-gate` · 2026-09-05
-- [fix: write-back reporting, override file edits, lockdown parsing](https://github.com/shini4i/argo-watcher/pull/589) · `shini4i/argo-watcher` · 2026-09-05
 
 ### 🐛 Recent Issues
 
+- [History date picker discards an in-progress selection when the parent re-renders](https://github.com/shini4i/argo-watcher/issues/593) · `shini4i/argo-watcher` · 2026-09-07
 - [Changed .yml manifests are silently ignored; only .yaml is picked up](https://github.com/shini4i/argo-compare/issues/176) · `shini4i/argo-compare` · 2026-09-02
 - [Discovery scan warns about files that merely contain the word "ApplicationSet"](https://github.com/shini4i/argo-compare/issues/175) · `shini4i/argo-compare` · 2026-09-02
 - [Docs: drop the deploy token deprecation note and state the network boundary](https://github.com/shini4i/argo-watcher/issues/568) · `shini4i/argo-watcher` · 2026-08-22
 - [Serve argo_cd_url as a URL string instead of a Go url.URL struct](https://github.com/shini4i/argo-watcher/issues/567) · `shini4i/argo-watcher` · 2026-08-22
-- [Remove the KEYCLOAK_* environment variable aliases](https://github.com/shini4i/argo-watcher/issues/566) · `shini4i/argo-watcher` · 2026-08-22
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
