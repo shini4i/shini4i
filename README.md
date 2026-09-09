@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(web): keep the date picker draft across parent re-renders](https://github.com/shini4i/argo-watcher/pull/594) · `shini4i/argo-watcher` · 2026-09-09
+- [docs(appset): add a setup guide and a cross-repo example](https://github.com/shini4i/argo-compare/pull/181) · `shini4i/argo-compare` · 2026-09-08
+- [feat(appset): expand an anchored git generator from its own repository](https://github.com/shini4i/argo-compare/pull/180) · `shini4i/argo-compare` · 2026-09-08
+- [feat(sources): support multi-source ref sources and $values](https://github.com/shini4i/argo-compare/pull/179) · `shini4i/argo-compare` · 2026-09-08
 - [chore(deps): bump go, npm, ci pins and dev images to latest](https://github.com/shini4i/argo-watcher/pull/592) · `shini4i/argo-watcher` · 2026-09-07
-- [feat(web): rework the task list and detail screens, add an overview](https://github.com/shini4i/argo-watcher/pull/591) · `shini4i/argo-watcher` · 2026-09-07
-- [ci(release): drop 1Password in favour of the workflow token](https://github.com/shini4i/atlantis-emoji-gate/pull/29) · `shini4i/atlantis-emoji-gate` · 2026-09-06
-- [fix(client): stop forwarding Private-Token on HTTP redirects](https://github.com/shini4i/atlantis-emoji-gate/pull/28) · `shini4i/atlantis-emoji-gate` · 2026-09-06
-- [fix(notifications): escape webhook values rendered into a JSON body](https://github.com/shini4i/argo-watcher/pull/590) · `shini4i/argo-watcher` · 2026-09-05
 
 ### 🐛 Recent Issues
 
