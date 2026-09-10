@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [fix(web): keep the date picker draft across parent re-renders](https://github.com/shini4i/argo-watcher/pull/594) · `shini4i/argo-watcher` · 2026-09-09
-- [docs(appset): add a setup guide and a cross-repo example](https://github.com/shini4i/argo-compare/pull/181) · `shini4i/argo-compare` · 2026-09-08
-- [feat(appset): expand an anchored git generator from its own repository](https://github.com/shini4i/argo-compare/pull/180) · `shini4i/argo-compare` · 2026-09-08
-- [feat(sources): support multi-source ref sources and $values](https://github.com/shini4i/argo-compare/pull/179) · `shini4i/argo-compare` · 2026-09-08
-- [chore(deps): bump go, npm, ci pins and dev images to latest](https://github.com/shini4i/argo-watcher/pull/592) · `shini4i/argo-watcher` · 2026-09-07
+- [refactor(argocd): move the rollout report into argocd and align state backends](https://github.com/shini4i/argo-watcher/pull/598) · `shini4i/argo-watcher` · 2026-09-09
+- [refactor(app): render every comparison leg through one pipeline](https://github.com/shini4i/argo-compare/pull/182) · `shini4i/argo-compare` · 2026-09-09
+- [docs: lead with waiting for an Argo CD deployment from CI](https://github.com/shini4i/argo-watcher/pull/597) · `shini4i/argo-watcher` · 2026-09-09
+- [chore(tooling): pin mockgen with a go.mod tool directive](https://github.com/shini4i/argo-watcher/pull/596) · `shini4i/argo-watcher` · 2026-09-09
+- [fix(web): restore the task list layout and flag rollbacks on task detail](https://github.com/shini4i/argo-watcher/pull/595) · `shini4i/argo-watcher` · 2026-09-09
 
 ### 🐛 Recent Issues
 
