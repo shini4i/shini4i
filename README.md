@@ -40,19 +40,19 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(argocd): hand a rollout over at shutdown instead of failing it](https://github.com/shini4i/argo-watcher/pull/603) · `shini4i/argo-watcher` · 2026-09-11
+- [refactor(web): simplify the date range picker and drop a fixed e2e wait](https://github.com/shini4i/argo-watcher/pull/601) · `shini4i/argo-watcher` · 2026-09-10
+- [refactor(server): share the auth rejection path and drop global registry](https://github.com/shini4i/argo-watcher/pull/600) · `shini4i/argo-watcher` · 2026-09-10
+- [fix(web): show all recent tasks by default](https://github.com/shini4i/argo-watcher/pull/599) · `shini4i/argo-watcher` · 2026-09-10
 - [refactor(argocd): move the rollout report into argocd and align state backends](https://github.com/shini4i/argo-watcher/pull/598) · `shini4i/argo-watcher` · 2026-09-09
-- [refactor(app): render every comparison leg through one pipeline](https://github.com/shini4i/argo-compare/pull/182) · `shini4i/argo-compare` · 2026-09-09
-- [docs: lead with waiting for an Argo CD deployment from CI](https://github.com/shini4i/argo-watcher/pull/597) · `shini4i/argo-watcher` · 2026-09-09
-- [chore(tooling): pin mockgen with a go.mod tool directive](https://github.com/shini4i/argo-watcher/pull/596) · `shini4i/argo-watcher` · 2026-09-09
-- [fix(web): restore the task list layout and flag rollbacks on task detail](https://github.com/shini4i/argo-watcher/pull/595) · `shini4i/argo-watcher` · 2026-09-09
 
 ### 🐛 Recent Issues
 
+- [Same-named charts from different registries share one extraction directory](https://github.com/shini4i/argo-compare/issues/185) · `shini4i/argo-compare` · 2026-09-10
 - [History date picker discards an in-progress selection when the parent re-renders](https://github.com/shini4i/argo-watcher/issues/593) · `shini4i/argo-watcher` · 2026-09-07
 - [Changed .yml manifests are silently ignored; only .yaml is picked up](https://github.com/shini4i/argo-compare/issues/176) · `shini4i/argo-compare` · 2026-09-02
 - [Discovery scan warns about files that merely contain the word "ApplicationSet"](https://github.com/shini4i/argo-compare/issues/175) · `shini4i/argo-compare` · 2026-09-02
 - [Docs: drop the deploy token deprecation note and state the network boundary](https://github.com/shini4i/argo-watcher/issues/568) · `shini4i/argo-watcher` · 2026-08-22
-- [Serve argo_cd_url as a URL string instead of a Go url.URL struct](https://github.com/shini4i/argo-watcher/issues/567) · `shini4i/argo-watcher` · 2026-08-22
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
