@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [fix(argocd): hand a rollout over at shutdown instead of failing it](https://github.com/shini4i/argo-watcher/pull/603) · `shini4i/argo-watcher` · 2026-09-11
-- [refactor(web): simplify the date range picker and drop a fixed e2e wait](https://github.com/shini4i/argo-watcher/pull/601) · `shini4i/argo-watcher` · 2026-09-10
-- [refactor(server): share the auth rejection path and drop global registry](https://github.com/shini4i/argo-watcher/pull/600) · `shini4i/argo-watcher` · 2026-09-10
-- [fix(web): show all recent tasks by default](https://github.com/shini4i/argo-watcher/pull/599) · `shini4i/argo-watcher` · 2026-09-10
-- [refactor(argocd): move the rollout report into argocd and align state backends](https://github.com/shini4i/argo-watcher/pull/598) · `shini4i/argo-watcher` · 2026-09-09
+- [fix(state): stop a late outcome landing on an ended deployment](https://github.com/shini4i/argo-watcher/pull/612) · `shini4i/argo-watcher` · 2026-09-11
+- [fix(observability): record write-back durations in batch mode](https://github.com/shini4i/argo-watcher/pull/611) · `shini4i/argo-watcher` · 2026-09-11
+- [fix(notifications): refuse redirects so a receiver cannot collect the credential](https://github.com/shini4i/argo-watcher/pull/610) · `shini4i/argo-watcher` · 2026-09-11
+- [fix(notifications): keep the receiver URL out of delivery errors](https://github.com/shini4i/argo-watcher/pull/609) · `shini4i/argo-watcher` · 2026-09-11
+- [fix(argocd): stop blaming Argo CD for a failed git write-back](https://github.com/shini4i/argo-watcher/pull/608) · `shini4i/argo-watcher` · 2026-09-11
 
 ### 🐛 Recent Issues
 
