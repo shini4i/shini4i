@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
-- [fix(state): stop a late outcome landing on an ended deployment](https://github.com/shini4i/argo-watcher/pull/612) · `shini4i/argo-watcher` · 2026-09-11
-- [fix(observability): record write-back durations in batch mode](https://github.com/shini4i/argo-watcher/pull/611) · `shini4i/argo-watcher` · 2026-09-11
-- [fix(notifications): refuse redirects so a receiver cannot collect the credential](https://github.com/shini4i/argo-watcher/pull/610) · `shini4i/argo-watcher` · 2026-09-11
-- [fix(notifications): keep the receiver URL out of delivery errors](https://github.com/shini4i/argo-watcher/pull/609) · `shini4i/argo-watcher` · 2026-09-11
-- [fix(argocd): stop blaming Argo CD for a failed git write-back](https://github.com/shini4i/argo-watcher/pull/608) · `shini4i/argo-watcher` · 2026-09-11
+- [fix: tolerate clock skew, read the websocket, share the config fetch](https://github.com/shini4i/argo-watcher/pull/614) · `shini4i/argo-watcher` · 2026-09-15
+- [bump openfortivpn-gui version to 0.4.2](https://github.com/shini4i/nixpkgs/pull/36) · `shini4i/nixpkgs` · 2026-09-14
+- [fix(reconnect): keep retrying up to the configured attempt limit](https://github.com/shini4i/openfortivpn-gui/pull/36) · `shini4i/openfortivpn-gui` · 2026-09-14
+- [fix(vpn): drop a tunnel's addressing once the connection ends](https://github.com/shini4i/openfortivpn-gui/pull/35) · `shini4i/openfortivpn-gui` · 2026-09-14
+- [fix(client): report a terminal state when the helper daemon dies](https://github.com/shini4i/openfortivpn-gui/pull/34) · `shini4i/openfortivpn-gui` · 2026-09-14
 
 ### 🐛 Recent Issues
 
