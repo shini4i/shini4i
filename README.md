@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [feat(argo-watcher): mount a private postgres CA and drop unused tokens](https://github.com/shini4i/charts/pull/56) · `shini4i/charts` · 2026-09-23
 - [fix(config): stop the DSN forcing cleartext and outranking PGSSLMODE](https://github.com/shini4i/argo-watcher/pull/618) · `shini4i/argo-watcher` · 2026-09-22
 - [chore(build): use clang as the cgo compiler everywhere](https://github.com/shini4i/openfortivpn-gui/pull/38) · `shini4i/openfortivpn-gui` · 2026-09-16
 - [ci: add Strix AI pentest scan on pull requests](https://github.com/shini4i/argo-watcher/pull/617) · `shini4i/argo-watcher` · 2026-09-16
 - [chore(deps): bump go toolchain, modules, flake and action pins](https://github.com/shini4i/openfortivpn-gui/pull/37) · `shini4i/openfortivpn-gui` · 2026-09-15
-- [fix(argocd): find images that only a sync hook declares](https://github.com/shini4i/argo-watcher/pull/616) · `shini4i/argo-watcher` · 2026-09-15
 
 ### 🐛 Recent Issues
 
