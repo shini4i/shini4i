@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(web): mark an overview app failing only on a current failure](https://github.com/shini4i/argo-watcher/pull/623) · `shini4i/argo-watcher` · 2026-09-29
+- [feat(client): ride out server restarts and short network outages](https://github.com/shini4i/argo-watcher/pull/622) · `shini4i/argo-watcher` · 2026-09-29
 - [perf(db): index the app-not-found sweep and drop the duplicate id index](https://github.com/shini4i/argo-watcher/pull/621) · `shini4i/argo-watcher` · 2026-09-28
 - [feat(client): warn when BEARER_TOKEN overrides the deploy token](https://github.com/shini4i/argo-watcher/pull/620) · `shini4i/argo-watcher` · 2026-09-28
 - [feat(web): link overview apps to history over the selected window](https://github.com/shini4i/argo-watcher/pull/619) · `shini4i/argo-watcher` · 2026-09-28
-- [feat(argo-watcher): mount a private postgres CA and drop unused tokens](https://github.com/shini4i/charts/pull/56) · `shini4i/charts` · 2026-09-23
-- [fix(config): stop the DSN forcing cleartext and outranking PGSSLMODE](https://github.com/shini4i/argo-watcher/pull/618) · `shini4i/argo-watcher` · 2026-09-22
 
 ### 🐛 Recent Issues
 
