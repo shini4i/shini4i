@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix!: validate Application-supplied values before use](https://github.com/shini4i/argo-compare/pull/188) · `shini4i/argo-compare` · 2026-10-01
+- [fix: report command and cluster errors cleanly and harden backup](https://github.com/shini4i/kubeseal-auto/pull/107) · `shini4i/kubeseal-auto` · 2026-10-01
+- [feat(processor)!: match CODEOWNERS paths with GitLab syntax](https://github.com/shini4i/atlantis-emoji-gate/pull/30) · `shini4i/atlantis-emoji-gate` · 2026-10-01
 - [fix(web): mark an overview app failing only on a current failure](https://github.com/shini4i/argo-watcher/pull/623) · `shini4i/argo-watcher` · 2026-09-29
 - [feat(client): ride out server restarts and short network outages](https://github.com/shini4i/argo-watcher/pull/622) · `shini4i/argo-watcher` · 2026-09-29
-- [perf(db): index the app-not-found sweep and drop the duplicate id index](https://github.com/shini4i/argo-watcher/pull/621) · `shini4i/argo-watcher` · 2026-09-28
-- [feat(client): warn when BEARER_TOKEN overrides the deploy token](https://github.com/shini4i/argo-watcher/pull/620) · `shini4i/argo-watcher` · 2026-09-28
-- [feat(web): link overview apps to history over the selected window](https://github.com/shini4i/argo-watcher/pull/619) · `shini4i/argo-watcher` · 2026-09-28
 
 ### 🐛 Recent Issues
 
