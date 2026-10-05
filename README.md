@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(argocd): stop ARGO_TOKEN following an https to http redirect](https://github.com/shini4i/argo-watcher/pull/624) · `shini4i/argo-watcher` · 2026-10-05
+- [fix: surface hidden failures and correct tray-mode behaviour](https://github.com/shini4i/openfortivpn-gui/pull/41) · `shini4i/openfortivpn-gui` · 2026-10-04
+- [fix(ui): list a new profile that is connected before its first save](https://github.com/shini4i/openfortivpn-gui/pull/40) · `shini4i/openfortivpn-gui` · 2026-10-04
+- [fix(ui): stop a waiting reconnect when Disconnect is pressed](https://github.com/shini4i/openfortivpn-gui/pull/39) · `shini4i/openfortivpn-gui` · 2026-10-04
 - [fix!: validate Application-supplied values before use](https://github.com/shini4i/argo-compare/pull/188) · `shini4i/argo-compare` · 2026-10-01
-- [fix: report command and cluster errors cleanly and harden backup](https://github.com/shini4i/kubeseal-auto/pull/107) · `shini4i/kubeseal-auto` · 2026-10-01
-- [feat(processor)!: match CODEOWNERS paths with GitLab syntax](https://github.com/shini4i/atlantis-emoji-gate/pull/30) · `shini4i/atlantis-emoji-gate` · 2026-10-01
-- [fix(web): mark an overview app failing only on a current failure](https://github.com/shini4i/argo-watcher/pull/623) · `shini4i/argo-watcher` · 2026-09-29
-- [feat(client): ride out server restarts and short network outages](https://github.com/shini4i/argo-watcher/pull/622) · `shini4i/argo-watcher` · 2026-09-29
 
 ### 🐛 Recent Issues
 
