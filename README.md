@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(deps): build with go 1.27.3 and refresh all dependencies](https://github.com/shini4i/argo-watcher/pull/630) · `shini4i/argo-watcher` · 2026-10-26
 - [feat(updater): add opt-in inline write-back to the Application manifest](https://github.com/shini4i/argo-watcher/pull/629) · `shini4i/argo-watcher` · 2026-10-14
 - [fix(web): wrap the raw failure reason on the task page](https://github.com/shini4i/argo-watcher/pull/628) · `shini4i/argo-watcher` · 2026-10-06
 - [feat(server): cap concurrent anonymous rollouts](https://github.com/shini4i/argo-watcher/pull/626) · `shini4i/argo-watcher` · 2026-10-05
 - [fix(web): raise the dompurify pin to 3.4.16](https://github.com/shini4i/argo-watcher/pull/625) · `shini4i/argo-watcher` · 2026-10-05
-- [fix(argocd): stop ARGO_TOKEN following an https to http redirect](https://github.com/shini4i/argo-watcher/pull/624) · `shini4i/argo-watcher` · 2026-10-05
 
 ### 🐛 Recent Issues
 
