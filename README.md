@@ -48,11 +48,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 
 ### 🐛 Recent Issues
 
+- [temporary outages are causing deployment to fail](https://github.com/shini4i/argo-watcher/issues/631) · `shini4i/argo-watcher` · 2026-10-28
 - [argo-watcher: migration hook Job cannot set DB_SSL_MODE, breaking installs against SSL-only Postgres](https://github.com/shini4i/charts/issues/54) · `shini4i/charts` · 2026-09-15
 - [Same-named charts from different registries share one extraction directory](https://github.com/shini4i/argo-compare/issues/185) · `shini4i/argo-compare` · 2026-09-10
 - [History date picker discards an in-progress selection when the parent re-renders](https://github.com/shini4i/argo-watcher/issues/593) · `shini4i/argo-watcher` · 2026-09-07
 - [Changed .yml manifests are silently ignored; only .yaml is picked up](https://github.com/shini4i/argo-compare/issues/176) · `shini4i/argo-compare` · 2026-09-02
-- [Discovery scan warns about files that merely contain the word "ApplicationSet"](https://github.com/shini4i/argo-compare/issues/175) · `shini4i/argo-compare` · 2026-09-02
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
