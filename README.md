@@ -40,19 +40,19 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [fix(auth): accept "*" in the allowed_apps claim as every application](https://github.com/shini4i/argo-watcher/pull/635) · `shini4i/argo-watcher` · 2026-10-29
+- [fix(argocd): keep the baseline image hash when resuming a rollout](https://github.com/shini4i/argo-watcher/pull/634) · `shini4i/argo-watcher` · 2026-10-28
+- [fix(argocd): fail a degraded rollout only after a grace period](https://github.com/shini4i/argo-watcher/pull/632) · `shini4i/argo-watcher` · 2026-10-28
 - [fix(deps): build with go 1.27.3 and refresh all dependencies](https://github.com/shini4i/argo-watcher/pull/630) · `shini4i/argo-watcher` · 2026-10-26
 - [feat(updater): add opt-in inline write-back to the Application manifest](https://github.com/shini4i/argo-watcher/pull/629) · `shini4i/argo-watcher` · 2026-10-14
-- [fix(web): wrap the raw failure reason on the task page](https://github.com/shini4i/argo-watcher/pull/628) · `shini4i/argo-watcher` · 2026-10-06
-- [feat(server): cap concurrent anonymous rollouts](https://github.com/shini4i/argo-watcher/pull/626) · `shini4i/argo-watcher` · 2026-10-05
-- [fix(web): raise the dompurify pin to 3.4.16](https://github.com/shini4i/argo-watcher/pull/625) · `shini4i/argo-watcher` · 2026-10-05
 
 ### 🐛 Recent Issues
 
+- [Resumed rollout loses its baseline image hash and never fails on Degraded](https://github.com/shini4i/argo-watcher/issues/633) · `shini4i/argo-watcher` · 2026-10-28
 - [temporary outages are causing deployment to fail](https://github.com/shini4i/argo-watcher/issues/631) · `shini4i/argo-watcher` · 2026-10-28
 - [argo-watcher: migration hook Job cannot set DB_SSL_MODE, breaking installs against SSL-only Postgres](https://github.com/shini4i/charts/issues/54) · `shini4i/charts` · 2026-09-15
 - [Same-named charts from different registries share one extraction directory](https://github.com/shini4i/argo-compare/issues/185) · `shini4i/argo-compare` · 2026-09-10
 - [History date picker discards an in-progress selection when the parent re-renders](https://github.com/shini4i/argo-watcher/issues/593) · `shini4i/argo-watcher` · 2026-09-07
-- [Changed .yml manifests are silently ignored; only .yaml is picked up](https://github.com/shini4i/argo-compare/issues/176) · `shini4i/argo-compare` · 2026-09-02
 <!-- ACTIVITY:END -->
 
 <sub>Stars & followers update live via shields.io · activity refreshes daily via GitHub Actions.</sub>
