@@ -40,11 +40,11 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 <!-- ACTIVITY:START -->
 ### 🔀 Recent Pull Requests
 
+- [feat(observability): list clients without auth by app on the dashboard](https://github.com/shini4i/argo-watcher/pull/638) · `shini4i/argo-watcher` · 2026-11-03
 - [fix(docs): run swag via go run so the Read the Docs build finds it](https://github.com/shini4i/argo-watcher/pull/637) · `shini4i/argo-watcher` · 2026-11-02
 - [fix(apptoken): reject "*" and "all_apps" as application names](https://github.com/shini4i/argo-watcher/pull/636) · `shini4i/argo-watcher` · 2026-10-29
 - [fix(auth): accept "*" in the allowed_apps claim as every application](https://github.com/shini4i/argo-watcher/pull/635) · `shini4i/argo-watcher` · 2026-10-29
 - [fix(argocd): keep the baseline image hash when resuming a rollout](https://github.com/shini4i/argo-watcher/pull/634) · `shini4i/argo-watcher` · 2026-10-28
-- [fix(argocd): fail a degraded rollout only after a grace period](https://github.com/shini4i/argo-watcher/pull/632) · `shini4i/argo-watcher` · 2026-10-28
 
 ### 🐛 Recent Issues
 
