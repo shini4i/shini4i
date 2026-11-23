@@ -59,6 +59,19 @@ Infrastructure & automation engineer, more than a decade in. Mostly Kubernetes p
 
 ---
 
+## 🎓 Certifications
+
+<p align="center">
+  <a href="https://certdirectory.io/profile/vadim-gedz?utm_source=github&utm_medium=readme">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/vadim-gedz.svg?style=card&theme=dark">
+      <img alt="Vadim Gedz on CertDirectory" src="https://certdirectory.io/badge/vadim-gedz.svg?style=card">
+    </picture>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
